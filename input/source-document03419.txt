@@ -1,0 +1,1184 @@
+﻿A cylinder of plate-iron will withstand a gradually applied, evenly distributed, and constant
+pressure, one thousandth part of which, acting at one spot, as a blow, would rend its way through,
+or establish a crack. This slight rent, giving partial relief to the sudden but comparatively
+small force that causes it, would be nothing very serious in itself,--no more so than a rent
+produced by the hydraulic press,--if the whole force, equal, perhaps, to that of a thousand
+wild horses imprisoned within, did not take instant advantage of it to enlarge the breach and
+blow the whole structure to fragments, or, in other words, if it did not permit nearly the
+whole of the accumulated heat in the boiler to be at once converted into mechanical motion.
+For example, a boiler whose ordinary working pressure is one hundred pounds to the square inch,
+which may give an aggregate on the whole surface of five millions of pounds, would not give
+way, perhaps, if that pressure were gradually and evenly increased to thirty millions. But
+if the water is allowed to get so low that some part of the plate exposed to the fire is no
+longer covered with it, that part will directly become far hotter than the water or the mass
+of the steam,--dry steam having no more power to carry away the excess of heat than so much
+air. After that, when the water rises again, the first wave or wallop that strikes the overheated
+plate absorbs the excess of heat, and its conversion into steam of higher pressure than that
+already existing is so sudden that it may be regarded as instantaneous. It is to be remembered
+that for every pound of water raised one degree, or heat to that amount absorbed in generating
+steam, a force of seven hundred and seventy-two pounds is created. In this case a new or additional
+force is created, which, acting in all directions from one point, first takes effect on the
+line which joins that point with the nearest opposite point in the wall of the boiler. If it
+is not like smiting with the edge of a ponderous battle-axe, it is at least as dangerous as
+a cannon ball shot along that line. If the local heat so suddenly absorbed be but enough to
+raise ten pounds of water ten degrees, it is equivalent to the force acquired by seventy-seven
+thousand two hundred pounds falling through a foot, or of a cannon-ball of one hundred pounds
+flying at the rate of more than a mile per second. If by any miracle the boiler should stand
+this shock or series of shocks, the pressure becomes equalized, and the overheated plate having
+parted with its excess of heat, safety is restored. But if cohesion is anywhere overcome by
+the sudden blow, the wild horses stampede in all directions. The boiler, minus the water and
+boiler-head perhaps, goes through ceiling, roof, and brick walls, as if they were cobwebs,
+and, surrounded with fragments of men and things, is seen descending like a comet through the
+neighboring air.
+
+To get rid of this liability to have a Thor-hammer or thunderbolt generated in the stomach
+of a steam-engine, at any moment when the vigilance of the engineer happens to be at fault,
+something is going to be done. No safety-valve or fusible plug is adequate. The boiler cannot
+be all safety-valve. The trouble is, the hammer is not more likely to strike the first of its
+terrible series of blows on the valve than anywhere else. A safety-valve, in good order, is
+a sovereign precaution against the excess of an equally distributed strain, but it is not an
+adequate protection against a shock or unequal strain. The old-fashioned gaugecocks, which
+are by no means to be dispensed with, reveal the state of the water in the boiler to the watchful
+engineer about as surely as the stethoscope reveals to the doctor the condition of his patient's
+lungs. A surer and more convenient indication is the tubular glass gauge, on the fountain principle,
+which in its best form is both trustworthy and durable. No well-informed proprietor suffers
+his boiler to be without one; but it is not a cure for carelessness. It is only a window for
+the vigilant eye to look through, not the eye itself. Steam-boilers will have to be constructed
+so that when the subsidence of the water fails to check itself by enlarging the supply, it
+shall, before the point of danger is reached, infallibly check the combustion, let off the
+steam, and blow a whistle or ring a bell, which the proprietor may, if he pleases, regard as
+the official death-knell of the careless engineer. Human vigilance must not be superseded,
+but fortified,--as in the case of the watchman watched by the tell-tale clock. The steam-creature
+must be so constituted as to refuse to work itself down to the zone where alone unequal strains
+are possible; it must cry out in horror and strike work. Mechanically the solution of the problem
+is easy, and the enhancement in cost of construction will be nothing, compared to the risk
+of loss from these explosions. With this guard against the deficiency of water, steam-power
+will become the safest, as it is the most manageable, of all forces that have hitherto been
+subsidized by the civilized man.
+
+But there is one more improvement worth mentioning. We do great injustice to our steam-slaves
+by the slovenly and unphilosophical way in which we feed them. We take no hints from animal
+economy or the laws of dietetics.
+
+Our creature has no regular meals, especially if he is one of the fast kind; but a grimy nurse
+stands by, and, opening his mouth every few minutes, crams in a few spoonfuls of the black
+pudding. The natural consequence is more or less indigestion and inequality of strength. We
+have not yet taken full advantage of the laws of combustion, or adapted our apparatus to the
+peculiarities of the best and cheapest fuel. Nature manages more wisely in her machinery. Combustion,
+the union of fuel with oxygen, ceases for want of air as well as for want of fuel. In the case
+of fuels compounded of carbon and hydrogen, if the air be withheld when the mass is in rapid
+combustion, the heat will cause a portion of the fuel to pass off by distillation, unconsumed,
+and this portion will be lost. But from the best anthracite, which is nearly pure carbon concentrated,
+if oxygen be entirely excluded, not much can distil away with any degree of heat. The combustion
+of this fuel, therefore, admits of very easy and economical regulation, by simply regulating
+the supply of air. When the air is admitted at all, it should be admitted above as well as
+below the fuel, so that the carbonic oxyde that is generated in the mass may be burned, or
+converted into carbonic acid, over the top. Why, then, should not the iron horse, before leaving
+his stable, take a meal of anthracite sufficient to last him fifty or one hundred miles? Let
+him swallow a ton at once, if he need it. Before starting, let the temperature of the mass
+in the furnace be got up to the point where the combustion will go on with sufficient rapidity
+for the required speed by simply supplying air, which should also be fed as hot as possible.
+This done, the engineer throughout the trip will have perfect control of his force by means
+of the steam-blast and air-openings. There will be no smoke nuisance, the combustion being
+complete so far as it takes place at all. There will be no need of loading the furnace with
+firebrick to equalize the heat,--the mass of incandescent fuel serving that purpose; and no
+waste or inequality will occur from opening the door to throw in a cold collation.
+
+What are we going to make? First, we are going to finish up, and carry out into all desirable
+species, our great idea of an iron slave, the illustrious Man Friday of our modern civilization.
+Whether we put water, air, or ether into his aorta, as the medium of converting heat into force,
+we shall at last have a safe subject, available for all sorts of drudgery, that will do the
+work of a man without eating more than half as much weight of coal as a man eats of bread and
+meat. Next, carrying into all departments of human industry, in its perfect development, this
+new creature, which has already, as a mere infant, made so stupendous a change in some of them,
+we shall make the human millions all masters, from being nearly all slaves. We shall make both
+idleness and poverty nearly impossible. Human labor, as a general thing, is a positive pleasure
+only when the hand and brain work in concert. Hence, the more you increase well-devised and
+efficient machinery, which requires and rewards intelligent oversight and skilful direction,
+the more you increase the love of labor. We have already manufacturing communities so well
+supplied with tasks for brains and hands, that everybody works, or would do so but for Circe
+and her seductive hollow-ware. We are beginning to push machinery into agriculture, where it
+will have still greater scope. With the means we now have, in the enormously increased production
+of iron, our almost omnipresent and omnipotent machine-shops, our railroads leading everywhere,
+another century, or perhaps half of it, will see every arable rood of the earth and every rood
+that can be made arable, ploughed, sowed, and the crops harvested by iron horses, iron oxen,
+or iron men, under the free and intelligent supervision of people who know how to feed, drive,
+doctor, and make the most of them.
+
+One island, which would hardly be missed from the map of the world, so small that its rivers
+all fall into the sea mere brooks, with not more than one-thirteenth as much coal as we have
+in the United States, and perhaps not one-hundredth as much iron ore, by the use of steam-driven
+machinery produces as much iron and perhaps weaves as much cloth yearly as all the rest of
+the world. If it does not the latter, it would do it, if it could find enough of the raw material
+and paying customers. But agriculture, which supplies the raw material, though it is the first
+and most universal form of human labor, lags behind the world's present manufacturing power.
+One cause of the late, and perhaps of the previous commercial revulsion, was this disproportion.
+The more rapid enlargement of manufacturing industry, multiplied in power by its machinery,
+caused the raw material to rise in price and the manufactured article to fall, till the operations
+could not be supported from the profits at the same time that contracts were fulfilled with
+capitalists. Manufactures must pause till agriculture overtakes. Steam-machinery applied to
+agriculture is the only thing that can correct this disproportion, and this is what we are
+going to make. The world is not to be much longer dependent for its cotton on the compulsory
+labor of the Dark Ages, nor for its flax and corn on blistered free hands or overworked cattle.
+The laborer, in either section of our country, will be transformed into an ingenious gentleman
+or lady, comfortably mounted on a migratory steam-cultivator to direct its gigantic energies,--or,
+at least, occasionally so occupied. Under this system, it must be plain enough, to all persons
+prophetically inclined, that the Northern valleys will greatly multiply their products, while
+the Southern cotton-fields will whiten with heavier crops than human chattelism ever produced,
+and the mountains of both latitudes, now hardly notched with civilization, will roll down the
+wool of sheep in clouds.
+
+Finally, with important and fruitful mechanical ideas which the world did not have twenty years
+ago, with machinery which no one could have believed possible one hundred years ago, and which
+has, since that time, quintupled the power of every free laborer in Christendom, we are going
+to make man what his Creator designed him to be,--always and everywhere a sub-creator. By the
+press we are making the knowledge of the past the knowledge of the present, the knowledge of
+one the knowledge of all. By the telegraph the senses of sight and hearing are to be extended
+around the globe. If we do not make ships to navigate the air, for ourselves, our wives, and
+our little ones, it will not be because we cannot, but because, being lords of land and sea,
+with power to traverse either with all desirable speed, we are too wise to waste force either
+in beating the air for buoyancy, battling with gravity like birds, on the one hand, or in paddling
+huge balloons against the wind, on the other. The steam-driven wheel leaves us no occasion
+to envy even that ubiquitous denizen of the universe, the flying-fish. We have in it the most
+economical means of self-transportation, as well as of mechanical production. It only remains
+to make the most of it. This, to be sure, will not be achieved without infinite labor and innumerable
+failures. The mechanical genius of the race is like the polypus anxiously stretching its tentacles
+in every direction, and though frustrated thousands of times, it grasps something at last.
+
+One of the most significant structures in the world, by the way, is the United States Patent
+Office at Washington. No other building in that novel city means a hundredth part as much,
+or shows so clearly what the world's most cunning thoughts and hands are chiefly engaged with.
+Not that the Patent Office contains so many miracles of mechanical success; rather the contrary.
+Take a just appraisal of its treasures, and you will regard it rather as the chief tomb in
+the Pere la Chaise of human hopes. What multitudes of long-nursed and dearly-cherished inventions
+there repose in a common grave, useful only as warnings to future inventors! One great moral
+of the survey is, that inventive talent is shamefully wasted among us, for want of proper scientific
+direction and suitable encouragement. The mind that comprehends general principles in all their
+relations, and sees what needs to be done and what is possible and profitable to be done, is
+of necessity not the one to arrange in detail the means of doing. The man of science and the
+mechanical inventor are distinct persons, speaking of either in his best estate; and the maximum
+success of machinery depends on their acting together with a better understanding than they
+have hitherto had. It were less difficult than invidious to point to living examples of the
+want of cooperation and co-appreciation between our knowing and our doing men; but, for the
+sake of illustrating our idea, we will run the risk of quoting a minute from the proceedings
+of one of our scientific societies, premising that we know nothing more of the parties than
+we learn from the minute itself,--to wit, that one is, or was, an ingenious mechanic, and the
+other a promoter of science.
+
+"Dr. Patterson gave an account of an automaton speaking-machine which Mr. Franklin Peale and
+himself had recently inspected. The machine was made to resemble as nearly as possible, in
+every respect, the human vocal organs; and was susceptible of varied movements by means of
+keys. Dr. Patterson was much struck by the distinctness with which the figure could enunciate
+various letters and words. The difficult combination three was well pronounced,--the th less
+perfectly, but astonishingly well. It also enumerated diphthongs, and numerous difficult combinations
+of sounds. Sixteen keys were sufficient to produce all the sounds. In enunciating the simple
+sounds, the movements of the mouth could be seen. The parts were made of gum elastic. The figure
+was made to say, with a peculiar intonation, but surprising distinctness, 'Mr. Patterson, I
+am glad to see you.' It sang, 'God save Victoria,' and 'Hail Columbia,'--the words and air
+combined. Dr. Patterson had determined to visit the maker of the machine, Mr. Faber, in private,
+in order to obtain further interesting information; but, on the following day, Dr. P. was distressed
+to learn, that, in a fit of excitement, he had destroyed every particle of a figure which had
+taken him seventeen years to construct."
+
+It is quite probable that the world lost very little by the destruction of this curious figure,
+whatever the nature or cause of the "excitement" that led to it. All we have to say is, that
+it does lose much, when the genius that can create such things is not set upon the right tasks,
+and encouraged to success by the "high consideration" of scientific men, who alone of all the
+world can appreciate the difficulties it has to contend with. It is by setting the right mechanical
+problems before the men who can make dumb matter talk, that we are to bring about the resurrection
+of the black Titan who has lain buried under the mountains for thousands of millenniums, and
+constitute him the efficient sub-gardener of the world's Paradise Regained.
+
+       *       *       *       *       *
+
+SHIPWRECK
+
+  We who by shipwreck only find the shores
+  Of divine wisdom can but kneel at first,
+  Can but exult to feel beneath our feet,
+  That long stretched vainly down the yielding deeps,
+  The shock and sustenance of solid earth:
+  Inland afar we see what temples gleam
+  Through immemorial stems of sacred groves,
+  And we conjecture shining shapes therein;
+  Yet for a space 'tis good to wonder here
+  Among the shells and seaweed of the beach.
+
+THE AUTOCRAT OF THE BREAKFAST-TABLE.
+
+EVERY MAN HIS OWN BOSWELL.
+
+Myself. No. Who's g-on-to run, 'n'wher's't g-on-to be?
+
+The Port-chuck.
+
+       *       *       *       *       *
+
+THE PRESIDENT'S PROPHECY OF PEACE.
+
+There was joy in the national palace on the eve of May-day. The heart of the Chief of Thirty
+Millions was full of gladness. It was a high holiday at the capital of the nation. Jubilant
+processions crowded the streets. The boom of cannon told to the heavens that some great event,
+full of glory and of blessing, was just happily born into the history of the world. Strains
+of triumphant music at once expressed and stirred afresh the rapture which the new fruition
+of a deferred and doubting hope had kindled in myriad breasts. Rejoicing multitudes swarmed
+before the palace gate, and with congratulatory shouts compelled the presence of the Nation's
+Head. He stood before them proud and happy, and answered to the transports of their joy with
+a responsive sympathy. He rejoiced in the prospect of the peace and prosperity with which the
+occasion of this jubilee was to cheer and bless the land in all its borders. His chosen friends
+and counsellors surrounded him and echoed his prophecies of good. A kindred homage was next
+paid to the virtuous artificers of the new-wrought blessing, without whose shaping hands it
+would have perished before the sight, or taken some dreadful form of mischief and of horror.
+Their words of cheer and exultation, too, swelled the surging tide of patriotic emotion till
+it overflowed again. Thus with the thunder of artillery, with the animating sound of drum and
+trumpet, with the more persuasive music of impassioned words, with shoutings and with revelry,
+these jocund compeers, from the highest to the lowest, mingled into one by the alchemy of a
+common joy, chased the hours of that memorable night and gave strange welcome to the morn of May.
+
+What great happiness had just befallen, which should thus transport with joy the chief magistrate
+of a mighty nation, and send an answering pulse of rapture through all the veins of his capital?
+The armies of the Republic had surely just returned in triumph from some dubious battle joined
+with a barbarian invader who threatened to trample all her cherished rights, and the institutions
+which are their safeguard, under his iron heel. Perhaps the Angel of Mercy had at length set
+again the seals upon some wide-wasting pestilence which had long been walking in darkness,
+with Terror going before her and Death following after. Or was it the desolating course of
+Famine that had been stayed, as it swept, gaunt and hungry, over the land, and consumed its
+inhabitants from off its face? Peradventure, the prayers of holy men had prevailed, and the
+heavens which had been as brass were melted, and the earth which had been but ashes revived
+again, a living altar, crowned afresh with flowers, and prophetic of the thank-offerings of
+harvests. Or it might be that a great discoverer had added a new world to the domain of human
+happiness, by some invention which should lighten the toils and multiply the innocent satisfactions
+of mankind. Or had virtue and intelligence won some signal victory over barbarism and ignorance,
+and blessed with liberty and knowledge regions long abandoned to despotism and to darkness?
+These had been, indeed, occasions on which the chief ruler of a great people might fitly lead
+the anthem of a nation's thanksgiving.
+
+But the joy which thus overflowed the hearts of President and people at the metropolis of our
+politics, and which has sprinkled with its cordial drops kindred spirits scattered far and
+wide over the land, welled up from no wholesome sources such as these. It was no deliverance
+from barbarous enemies, from pestilential disease, from meagre famine, that moved those raptures,--no
+joy at ignorance dissipated, barbarism dispelled, or tyranny put down. The "peace" and the
+"prosperity," the prophecy of which was so sweet to the souls that took sweet counsel together
+on that night, were of a kind which only souls tuned to such unison and so subtly trained could
+fully comprehend and rightly estimate. This gentle peace, thus joyfully presaged, is to be
+won by the submission of an inchoate State to a form of government subjecting its inhabitants
+to institutions abhorrent to their souls and fatal to their prosperity, forced upon them at
+the point of the bowie-knife and the muzzle of the revolver by hordes of sordid barbarians
+from a hostile soil, their natural and necessary enemies. And the sweet harbinger of this blessed
+peace, the halcyon which broods over the stormy waves and tells of the calm at hand, is a bribe
+so cunningly devised that its contrivers firmly believe it will buy up the souls of these much-injured
+men, and reconcile them to the shame and infamy of trading away their lights and their honor
+as the boot of a dirty bargain in the land-market. And the "prosperity" which is to wait upon
+this happy "peace" glows with a like golden promise. It is a prosperity that shall bless Kansas
+into a Virginia or a North Carolina by virtue of the same means which has crowned the Slave-country
+with the wealth, the civilization, and the intelligence it has to brag of. It is such a prosperity
+as ever follows after the footsteps of Slavery,--a prosperity which is to blight the soil,
+degrade the minds, debauch the morals, impoverish the substance, and subvert the independence
+of a loathing population, if the joy of the President and his directors is to be made full.
+Such is the message of peace and good-will which thrilled with prophetic raptures the hearts
+which flowed together on that happy night, and such the blessed prospects which made the air
+of Washington vocal with the ecstasies of triumph.
+
+The history of the world is full enough of illustrations of "the Art of making a Great Kingdom
+a Small One." The art of degrading the imperial idea of a true republic from its just preeminence
+among the polities of mankind, of quenching the principles of eternal right which are the star-points
+of its divine crown, of trailing the shining whiteness of its robes in the dust, and making
+it an object of contempt rather than of adoration, has never been taught more emphatically
+than in the examples furnished by our own later annals. If Mr. Buchanan and his predecessor
+had set themselves to work, of good set purpose, to bring republican institutions into derision,
+and to prove that the American experiment was a dead failure, they could not have proceeded
+more cunningly with their task. Their aim has been, as it has seemed, to give the lie to all
+the principles on which it has been assumed that these institutions rest, and to show that
+their real object is to subject the many to the government of the few, as the manner is of
+the nations round about. The thin veil of decent falsehood, under which the caution of earlier
+time had decorously hid this fact, has been torn aside by the rude intrepidity of assurance
+which long-continued success had fostered. The problem to be solved being to prove the chief
+axiom of our political science, that the people have a right to self-government and to the
+choice of their own institutions, to be a lie, it is worked out in the presence of an admiring
+world, after this fashion.
+
+The old Ordinance--which set limits to Slavery, and which, as it preceded the Constitution,
+should in honor and equity be taken as a condition precedent to it, and the later pledge of
+the South, that this contract should be sacredly kept on the other side of a certain parallel
+of latitude, having both been infamously violated for the sake of extending the domain of Slavery
+into regions solemnly dedicated to Liberty, the entire energies of the General Government and
+of the political party it represented were put forth to crystallize this double lie into the
+institutions of Kansas, and thus take it out of the category of theory and reduce it into that
+of fact. The reluctance of the inhabitants of the young Territory went for nothing, and provision
+was soon effectually made to overcome their resistance. Every form of terrorism, to which tyrants
+all alike instinctively resort to disarm resistance to their will, was launched at the property,
+the lives, and the happiness of the defenceless settlers. Hordes of barbarians, as we have
+said before, from every part of the Southern hive, but especially from the savage tribes of
+the bordering Missouri, poured themselves over the devoted land. Murder, arson, robbery, every
+outrage that could be offered to man or woman, waited on their footsteps and stalked abroad
+with them in their forays against Freedom. When the first steps were to be taken towards the
+organization of a government, they precipitated themselves upon the Territory in fiercer numbers.
+They made themselves masters of the polling-places; they drove away by violence and threats
+the peaceable inhabitants and lawful voters, and by open force and unblushing fraud elected
+themselves or their creatures the lawgivers of the commonwealth about to be created. So outrageous
+were the crimes of these miscreants at this and subsequent periods, that even the very creatures
+of Pierce and Buchanan, chosen especially for their supposed fitness to assist in these villanies,
+turned away, one after another, sickened at the sight of them, and forfeited forever the favor
+of their masters by shrinking from an unqualified and unhesitating obedience.
+
+The Constitution, contrived by the wretches thus nefariously clothed in the stolen sovereignty
+of the true inhabitants of Kansas, of course made Slavery an integral part of the institutions
+of the State. A code of laws was enacted absolutely without parallel in the history of the
+world for insolent trampling down of rights and for bloody cruelty of penalties,--laws so abominable
+as even to call down upon them, from his place in the Senate, the emphatic condemnation of
+so veteran a soldier in the service of Slavery as General Cass, now Mr. Buchanan's Secretary
+of State. These Territorial laws, thus infamously vile, thus made in defiance of the well-known
+will of the great majority of the people of Kansas, Mr. Pierce hastened to recognize as the
+authentic expression of the mind of the people there, and exerted all the moral and all the
+physical force of the government to maintain them in their authority. Since that magistrate
+was kicked aside as no longer available for the uses of Slavery, because of the very infamy
+he had won in its service, Mr. Buchanan, unlessoned by his fate, has adopted his views and
+carried out his policy.
+
+We do not propose to follow this march of shameful events step by step, nor to speak of them
+in their exact chronological order, nor yet to specify to which of these magistrates the credit
+of any one of them belongs, inasmuch as the philosophy and method of the policy of the one
+and the other are absolutely identical. We have space only to glance at unquestionable facts,
+and to trace them to their necessary motives. To maintain the supremacy of this usurpation,
+and the Draconic laws made under it, Mr. Pierce poured in the squadrons of the Republic, to
+dragoon the rebellious freemen into obedience to what their souls abhorred, and what their
+reason told them was of no more just binding force upon them than an edict of the Emperor of
+China. When the actual inhabitants of the Territory had met in Convention and framed a Constitution
+excluding Slavery, and had adopted it, and the legislature authorized by it met, its members
+were dispersed by national soldiers, detailed to compel submission to the behests of the Slavemastery
+of the Government and of the nation. These troops have been kept on foot ever since, to intimidate
+the people, to assist as special police in the arrest and detention of political prisoners
+charged with crimes against the Usurpation, and to sustain the Federal governors and judges
+in carrying out their instructions for the Subjugation of the majority by legal chicane or
+by military violence.
+
+Such was the genesis of the Lecompton Constitution, and such the nursing it had received at
+the hands of the paternal government at Washington. In due course of time it was presented
+to Congress as the charter under which the people of Kansas asked to receive the concession
+of their right of State government; and the scene of war was forthwith transferred from those
+distant fields to the chambers of national legislation, under the immediate eye of the chief
+of the state. This high officer soon dispelled any delusive doubts which, for the purpose of
+securing his election, he had permitted to be ventilated during the late Presidential campaign,
+that he would at least see fair play in the struggle between Slavery and Freedom in Kansas.
+With indecent zeal and unscrupulous partisanship, he concentrated all the energies of his administration,
+and employed the whole force of the influence and the patronage of the nation, to obtain the
+indorsement by Congress of the Lecompton Constitution, and thus to compel the people of Kansas
+to pass under the yoke of their Slaveholding invaders. The true origin and character of that
+vile fabrication had been made plain to every eye that was willing to see, and the abhorrence
+in which it was held by nearly the entire population of the Territory put beyond question by
+more than one trial vote. Yet it was embraced as the test measure of the Administration to
+prove the unbroken fealty of the President to the Power which is mightier than he. Victory
+was reckoned upon in advance, as certain and easy. A servile, or rather a commanding majority
+in the Senate,--nearly half of that body being of the class that rules the rulers,--was ready
+to do whatever dirty and detestable work was demanded of them. A majority of more than thirty
+in the House, elected as supporters of the Administration, seemed to make success there also
+an inevitable necessity. But by reason of the vastly larger proportion of members from the
+Free States in that body, and their greater nearness to their constituents, these reasonable
+expectations were disappointed. Men who had taken service in the Democratic ranks, and had
+been faithful unto that day, refused to obey the word of command when it took this tone and
+was informed with this purpose. And for a season the plague was stayed, and sanguine hearts
+trusted that it was stayed forever.
+
+We are willing to believe that the bulk of the Democrats in both Houses of Congress, who had
+the virtue to defy the threats and cajolements of their party-leaders, when this great public
+crime was demanded at their hands, were sincere in the resistance they opposed to this subversion
+of all the principles in which they had been bred, and of which their party had always professed
+to be the special defence and guard. But the mantle of our charity is not wide enough to cover
+up the base treachery of those men who, acknowledging and demonstrating the right, devised
+or consented to the villany which was to crush or to cripple it. That the final shape which
+the Lecompton juggle took was an invention of the enemy, cunningly contrived to win by indirection
+what was too dangerous to be attempted by open violence, is a conclusion from which no candid
+mind can escape, after a full consideration of the case. The defection of so large a body of
+Northern Democrats from the side of the Slaveholding Directory was doubtless a significant
+and startling fact, suggestive of dangerous insubordination on the part of allies who had ever
+been found sure and steadfast in every jeopardy of Slavery. And it made a resort to guile necessary
+to carry the point which it was not prudent to press to the extremity of force. The Slaveholders
+are not fastidious as to the means by which they reach their end. Though they might have preferred
+to hew their way to their design with a high hand, and to put down all opposition by bought
+or bullied majorities, backed by the strong arm of the nation, yet they never refuse to compromise
+and palter when the path to success lies through stratagems or frauds. The skill in this instance,
+as in all others, by which they propose to win everything under the show of yielding somewhat,
+is worthy of Machiavel or of Lucifer, and is far above the capacity of the paltry Northern
+tool who is permitted to enjoy the infamy of the invention which he was employed to utter.
+The Slaveholders, like other despots, do their dirty work by proxy, and scorn the wretched
+instruments they use, and then fling from them in disgust.
+
+The Lecompton cheat having been defeated in the House after it had received the indorsement
+of the Senate, the two coordinates were at issue, and it seemed for a brief time to have met
+with the fate it merited. But cunning and treachery combined to put it into the hands of a
+Committee of Conference to be manipulated afresh, and, if possible, moulded into a shape that
+might give Democratic recusants an excuse for treason to the North and submission to the Power
+that demanded it. And the invention was worthy of the diabolical sagacity and ingenuity which
+have always marked the politics of Slavery. The maxim, that every man has his price, was assumed
+to apply as well to men when collected into bodies corporate as to individuals; and the hook,
+with which the souls of the men of Kansas are to be fished for, was baited with a bribe the
+most tempting to their hungry needs. And to make their capture the more sure, an answering
+menace threatens them on the other hand, to force them to swallow the barbed treachery. They
+are offered no opportunity of expressing their assent or dissent as to the Constitution held
+over their heads. Their enemies know too well what its fate would be, if offered, pure and
+simple, to their acceptance or refusal. They are only to say whether or not they will accept
+five million acres of land that Congress munificently offers them for the construction of their
+railways. If they say, "Yes, thank you," to this simple question, the Chief Conjurer of the
+nation, the great Medicine Man of our tribe, the Head Magician of our Egypt, will only have
+to say, "Presto pass," and they will find themselves a Slave State in the glorious Union, under
+a solemn contract, struck by this same act, to endure Slavery for six years to come. If they
+say, "No, we won't," the door of the Union is shut in their faces, and they are told to wait
+without in all the bleakness of Territorial dependency, subject to the laws now afflicting
+them, with a satrap sent down from Washington to rule over them, and with Lecomptes and Catos
+to decree justice for them, until swindling tools of the Administration shall be instructed
+to allow the presence of a sufficient population to entitle a State to a Representative.
+
+If they consent to be erected into a Slave State by accepting the bribe, they will come into
+the Union by a puff of Presidential breath, though having only forty thousand inhabitants,
+with two Senators and a Representative, and all the advantages incident to Federal connection
+and patronage. Should they reject it, they will be left, it may be, to years of Territorial
+annoyance, and the annoyance of a Slave Territory, too, till Government officials shall discover
+their numbers to amount to near a hundred thousand, and possibly to much more, after the next
+census has newly apportioned the House. With Slavery, they have proffered to them broad lands
+to help cover their wide expanse with an iron reticulation of railways, developing their resources
+and multiplying their material prosperity, at the slight cost of their consistency and their
+honor. Without it, they may have to stand shivering at the gate of the Union, blasted by the
+"cold shade" of our American aristocracy, and far removed from the genial sunshine of national
+favor and bounty. Truly did Senator Wilson say that Congress approached Kansas at once with
+a bribe and a threat. Never was the devilish cunning of Slaveholding politics more strikingly
+illustrated than by the insidious vileness of this proposition. It had been bad enough, surely,
+had we been called upon to rejoice, as over a great triumph of the right, at the concession
+to Kansas of the sovereignty of settling her own institutions in her own way, had such been
+granted. Nothing could be more simple and natural, in a case of conflicting assertions and
+opposite beliefs as to the state of opinion there, than to remit the decision of the doubt
+to a fresh vote. Had any other interest than that in human beings been involved, such a disposition
+of the whole matter would have excited neither remark nor opposition. Nothing, perhaps, could
+exemplify the control Slavery has obtained over the affairs of the country more strongly than
+the power it has had to hinder this simple remedy of an alleged wrong or error,--and this,
+by procuring the defection of sordid Northern Representatives from what they confessed to be
+the right, to this corrupt evasion,--an evasion designed to fit the people of Kansas for servitude
+by tempting them to sacrifice their self-respect and their honor. Let these miscreants make
+haste to seize the price of their perfidy before popular contempt and loathing shall sweep
+them forever out of sight into the abyss of infamy and forgetfulness which is appointed for
+the traitors to Liberty. If the question of the real will of the people of Kansas had been
+referred back to them for settlement, it would have been humiliating enough to have had to
+exult over it as a victory of Freedom. With what depth of shame, then, should we contemplate
+the compassing of their end by the Slavocrats, through the venal surrender of the rights so
+long and so manfully asserted, for so paltry a temptation!
+
+But we do not apprehend a consummation so devoutly to be deprecated. We believe that the people
+of Kansas will spurn the bribe and refuse to eat the dirt that is set before them for a banquet.
+They will reject the insulting proffer with contempt, and fall back upon their reserved right
+of resistance, passive or active, as their circumstances may advise. They will not be so base
+as to desert the post of honor they have sought in the great fight for freedom and maintained
+so long and so well, disappointing and throwing into confusion the distant allies who have
+stood behind them in their most evil hours, for all the lands that President and Congress have
+to give. It is, indeed, a momentous crisis for them, and we have faith to believe that they
+will not be wanting to its demands. The eyes of the lovers of liberty everywhere are earnestly
+watching to see how they will come out from the ordeal by fire and by gold to which they are
+subjected. What Boston was in 1775, and Paris in 1789, is Kansas now,--the field on which a
+great battle for the right is to be fought. Honor or infamy attends the issue of her action
+in the dilemma in which the crafty malice of her enemies has placed her. If she agree to take
+the dirty acres which are proffered to her as the price of her integrity, she consents to take
+the yoke of Slavery upon her neck and not even to attempt to shake herself free from it for
+six years to come. We know that shuffling Democrats, and even temporizing Republicans, represent
+that the people, after accepting the Lecompton Constitution, can forthwith summon a Convention
+and substitute another scheme of government in its stead. But this could be initiated only
+by a breach of the promise they would have just pledged, and could be carried through only
+by a revolution. Such a course would be a direct violation of the philosophy of Constitutional
+Government, which assumes as its fundamental axiom, that Constitutions can be altered only
+in the way and according to the conditions prescribed in themselves. Such a proceeding would
+be a coup d'etat, not as flagitious certainly as that of Bonaparte, but to the full as revolutionary
+and illegal. And we may be sure that the arm of the United States Government would not be shortened
+so that it should not interpose and hinder such a defiance of itself and the Power whose instrument
+it is. With servile and corrupt judges at its beck and a majority in Congress within its purchase,
+the occasion and means of such an interference would be readily devised and supplied.
+
+We believe that this line of policy would lead to an armed collision with the General Government.
+It is for the oppressed inhabitants of any country to say when their wrongs have reached the
+height which justifies the drawing of the civil sword. We have neither the right nor the disposition
+to advise the people of Kansas in a matter so emphatically their own. But there is another
+way of coming to this arbitrament,--inevitable, if they deviate a hair's-breadth from the strict
+line of law,--should they deem there is no other remedy for their wrongs. The admirable Constitution
+just framed at Leavenworth, one well worthy of a free people that has been tried as with fire,
+will be adopted before these lines are before the public eye. Let them reject the Buchanan-English
+swindle, put their heel on the Lecompton fraud, set up the Leavenworth Constitution, and erect
+a State government under it in defiance of the Territorial Usurpation, and they will soon find
+themselves face to face with the tyranny at Washington. But is there not reason to hope that
+firmness and patience may yet win the battle for freedom without resorting to so serious an
+alternative? Is it indeed inevitable that Kansas must remain out of the pale of the Union,
+under the oppression of the Territorial laws, until the hirelings of the Government shall have
+determined that slaves enough have been poured in to decide the complexion of the new State,
+and shall authorize her to ask for admission? We are told that the joy at Washington and elsewhere
+over this "settlement" of the Kansas difficulty was because it was taken out of Congress, and
+"Agitation" at an end. But what is to hinder its being brought into Congress again?--and whose
+fault will it be, if Agitation do not survive and grow mightier unto the victory? If the present
+Congress can shut its doors against this intruder, its power dies with itself, and it greatly
+lies with the people of Kansas to make the next Congress one that shall rehabilitate them in
+their rights. Their conduct at this pregnant moment may settle the proximate destiny of the
+Republic, and decide whether the Slave Power is to rule us by its underlings for four years
+more, or whether its pride is to have a fall and its insolence a rebuke in 1860.
+
+We all remember how often the Agitation of the Slavery question has been done to death in Congress,
+and how sure it was to appear again to startle its murderers from their propriety. Like "the
+blood-boltered Banquo," it would confront again the eyes that had hoped to look upon it no
+more. It would come back:
+
+  "With twenty mortal murders on its head
+  To push them from their stools!"
+
+And this dreaded spectre, though a beneficent angel with healing on his wings in truth, will
+push yet many traitorous or cowardly sycophants from the stools they disgrace, and substitute
+in their stead men who will quiet Agitation by Justice. Let the men of Kansas remember that
+a yet greater trust than that of providing for their own interests and rights is in their hands.
+The battle they are to fight in this quarrel is for the whole North, for the whole country,
+for the world. Let them address themselves unto it with calmness, with prudence, with watchfulness,
+with courage. They are beset on every side by crafty and desperate enemies. Greedy land-jobbers,
+in haste to be rich, will try to persuade them that not to be innocent is to be wise. Timid
+timeservers will urge a submission which promises peace, though it be but a solitude that is
+called so. Rampant Pro-slavery will exalt its horn against Righteousness and try again the
+virtue of ruffianism to prevail against civilization. The barbarians will hang anew upon the
+borders, ready to complete the conquest they began so well. And above all, a majority of the
+men who are to pass upon the votes are the creatures of the Administration, who know, by the
+example of their predecessors, that the suspicion of honesty will be fatal to all their hopes
+of preferment, and that they can purchase reward only by procuring, quocunque modo, the acceptance
+of the proposition of Congress. But still the power is in the hands of the Free-State men,
+if they choose to put it forth. Let them organize such a scrutiny everywhere, that fraud and
+violence cannot escape detection and exposure. Let them observe most rigidly all the technical
+rules imposed upon the electors, that no vote may be lost. Let them come to the polls by thousands,
+and trample under their feet the shabby bribe for which they are asked to trade away their
+independence and their virtue. Let them be thus faithful, and never be weary of maintaining
+the Agitation, which is proved, by the very dread their enemies have of it, to be the way to
+their victory. Thus they will be sure to triumph, conquering their right to create their own
+government, and erect a free commonwealth on the ruins of the tyranny they have overthrown.
+And Kansas, at no distant period, will be welcomed by her Free Sisters to her place among them,
+with no stain of bribes in her hands, and with no soil of meanness upon her garments. And then
+the "peace" and "prosperity," which President Buchanan saw in vision on the eve of May-day,
+will indeed prevail and be established, while the blackness of infamy will brood forever over
+the memory of the magistrate who used the highest office of the Republic to perpetuate the
+wrongs of the Slave by the sacrifice of the rights of the Citizen.
+
+LITERARY NOTICES.
+
+ Library of Old Authors.--Works of John Webster. London: John
+   Russell Smith. 1856-57.
+
+We turn now to Mr. Hazlitt's edition of Webster. We wish he had chosen Chapman; for Mr. Dyce's
+Webster is hardly out of print, and, we believe, has just gone through a second and revised
+edition. Webster was a far more considerable man than Marston, and infinitely above him in
+genius. Without the poetic nature of Marlowe, or Chapman's somewhat unwieldy vigor of thought,
+he had that inflammability of mind which, untempered by a solid understanding, made his plays
+a strange mixture of vivid expression, incoherent declamation, dramatic intensity, and extravagant
+conception of character. He was not, in the highest sense of the word, a great dramatist. Shakspeare
+is the only one of that age. Marlowe had a rare imagination, a delicacy of sense that made
+him the teacher of Shakspeare and Milton in versification, and was, perhaps, as purely a poet
+as any that England has produced; but his mind had no balance-wheel. Chapman abounds in splendid
+enthusiasms of diction, and now and then dilates our imaginations with suggestions of profound
+poetic depth. Ben Jonson was a conscientious and intelligent workman, whose plays glow, here
+and there, with the golden pollen of that poetic feeling with which his age impregnated all
+thought and expression; but his leading characteristic, like that of his great namesake, Samuel,
+was a hearty common sense, which fitted him rather to be a great critic than a great poet.
+He had a keen and ready sense of the comic in situation, but no humor. Fletcher was as much
+a poet as fancy and sentiment can make any man. Only Shakspeare wrote comedy and tragedy with
+truly ideal elevation and breadth. Only Shakspeare had that true sense of humor which, like
+the universal solvent sought by the alchemists, so fuses together all the elements of a character,
+(as in Falstaff,) that any question of good or evil, of dignified or ridiculous, is silenced
+by the apprehension of its thorough humanity. Rabelais shows gleams of it in Panurge; but,
+in our opinion, no man ever possessed it in an equal degree with Shakspeare, except Cervantes;
+no man has since shown anything like an approach to it, (for Moliere's quality was comic power
+rather than humor,) except Sterne, Fielding, and Richter. Only Shakspeare was endowed with
+that healthy equilibrium of nature whose point of rest was midway between the imagination and
+the understanding,-- that perfectly unruffled brain which reflected all objects with almost
+inhuman impartiality,--that outlook whose range was ecliptical, dominating all zones of human
+thought and action,--that power of verisimilar conception which could take away Richard III
+from History, and Ulysses from Homer,--and that creative faculty whose equal touch is alike
+vivifying in Shallow and in Lear. He alone never seeks in abnormal and monstrous characters
+to evade the risks and responsibilities of absolute truthfulness, nor to stimulate a jaded
+imagination by Caligulan horrors of plot. He is never, like many of his fellow-dramatists,
+confronted with unnatural Frankensteins of his own making, whom he must get off his hands as
+best he may. Given a human foible, he can incarnate it in the nothingness of Slender, or make
+it loom gigantic through the tragic twilight of Hamlet. We are tired of the vagueness which
+classes all the Elizabethan playwrights together as "great dramatists,"--as if Shakspeare did
+not differ from them in kind as well as in degree. Fine poets some of them were; but though
+imagination and the power of poetic expression are, singly, not uncommon gifts, and even in
+combination not without secular examples, yet it is the rarest of earthly phenomena, to find
+them joined with those faculties of perception, arrangement, and plastic instinct in the loving
+union which alone makes a great dramatic poet possible. We suspect that Shakspeare will long
+continue the only specimen of the genus. His contemporaries, in their comedies, either force
+what they call "a humor" till it becomes fantastical, or hunt for jokes, like rat-catchers,
+in the sewers of human nature and of language. In their tragedies they become heavy without
+grandeur, like Jonson, or mistake the stilts for the cothurnus, as Chapman and Webster too
+often do. Every new edition of an Elizabethan dramatist is but the putting of another witness
+into the box to prove the inaccessibility of Shakspeare's stand-point as poet and artist.
+
+Webster's most famous works are "The Duchess of Malfy" and "Vittoria Corombona," but we are
+strongly inclined to call "The Devil's Law-Case" his best play. The two former are in a great
+measure answerable for the "spasmodic" school of poets, since the extravagances of a man of
+genius are as sure of imitation as the equable self-possession of his higher moments is incapable
+of it. Webster had, no doubt, the primal requisite of a poet, imagination, but in him it was
+truly untamed, and Aristotle's admirable distinction between the Horrible and the Terrible
+in tragedy was never better illustrated and confirmed than in the "Duchess" and "Vittoria."
+His nature had something of the sleuth-hound quality in it, and a plot, to keep his mind eager
+on the trail, must be sprinkled with fresh blood at every turn. We do not forget all the fine
+things that Lamb has said of Webster, but, when Lamb wrote, the Elizabethan drama was an El
+Dorado, whose micacious sand, even, was treasured as auriferous,--and no wonder, in a generation
+which admired the "Botanic Garden." Webster is the Gherardo della Notte of his day, and himself
+calls his "Vittoria Corombona" a "night-piece." Though he had no conception of Nature in its
+large sense, as something pervading a whole character and making it consistent with itself,
+nor of Art, as that which dominates an entire tragedy and makes all the characters foils to
+each other and tributaries to the catastrophe, yet there are flashes of Nature in his plays,
+struck out by the collisions of passion, and dramatic intensities of phrase for which it would
+be hard to find the match. The "prithee, undo this button" of Lear, by which Shakspeare makes
+us feel the swelling of the old king's heart, and that the bodily results of mental anguish
+have gone so far as to deaden for the moment all intellectual consciousness and forbid all
+expression of grief, is hardly finer than the broken verse which Webster puts into the mouth
+of Ferdinand when he sees the body of his sister, murdered by his own procurement,--
+
+  "Cover her face: mine eyes dazzle: she died young."
+
+He has not the condensing power of Shakspeare, who squeezed meaning into a phrase with an hydraulic
+press, but he could carve a cherry-stone with any of the concellisti, and abounds in imaginative
+quaintnesses that are worthy of Donne, and epigrammatic tersenesses that remind us of Fuller.
+Nor is he wanting in poetic phrases of the purest crystallization. Here are a few examples:--
+
+  "Oh, if there be another world i' th' moon,
+  As some fantastics dream, I could wish all men,
+  The whole race of them, for their inconstancy,
+  Sent thither to people that!"
+
+(Old Chaucer was yet slier. After saying that Lamech was the first faithless lover, he adds,--
+
+  "And he invented tents, unless men lie,"--
+
+implying that he was the prototype of nomadic men.)
+
+  "Virtue is ever sowing of her seeds:
+  In the trenches, for the soldier; in the wakeful study,
+  For the scholar; in the furrows of the sea,
+  For men of our profession [merchants]; all of which
+  Arise and spring up honor."
+
+("Of all which," Mr. Hazlitt prints it.)
+
+  "Poor Jolenta! should she hear of this,
+  She would not after the report keep fresh
+  So long as flowers on graves."
+
+  "For sin and shame are ever tied together
+  With Gordian knots of such a strong thread spun,
+  They cannot without violence be undone."
+            "One whose mind
+  Appears more like a ceremonious chapel
+  Full of sweet music, than a thronging presence."
+         "Gentry? 'tis nought else
+  But a superstitious relic of time past;
+  And, sifted to the true worth, it is nothing
+  But ancient riches."
+          "What is death?
+  The safest trench i' th' world to keep man free
+  From Fortune's gunshot."
+
+       "It has ever been my opinion
+  That there are none love perfectly indeed,
+  But those that hang or drown themselves for love,"
+
+  says Julio, anticipating Butler's
+
+  "But he that drowns, or blows out's brains,
+  The Devil's in him, if he feigns."
+
+He also anticipated La Rochefoucauld and Byron in their apophthegm concerning woman's last
+love. In "The Devil's Law-Case," Leonora says:
+
+  "For, as we love our youngest children best,
+  So the last fruit of our affection,
+  Wherever we bestow it, is most strong,
+  Most violent, most unresistible;
+  Since 'tis, indeed, our latest harvest-home,
+  Last merriment 'fore winter."
+
+In editing Webster, Mr. Hazlitt had the advantage (except in a single doubtful play) of a predecessor
+in the Rev. Alexander Dyce, beyond all question the best living scholar of the literature of
+the times of Elizabeth and James I. If he give no proof of remarkable fitness for his task,
+he seems, at least, to have been diligent and painstaking. His notes are short and to the point,
+and--which we consider a great merit--at the foot of the page. If he had added a glossarial
+index, we should have been still better pleased. Mr. Hazlitt seems to have read over the text
+with some care, and he has had the good sense to modernize the orthography, or, as he says,
+has "observed the existing standard of spelling throughout." Yet--for what reason we cannot
+imagine--he prints "I" for "ay," taking the pains to explain it every time in a note, and retains
+"banquerout" and "coram" apparently for the sake of telling us that they mean "bankrupt" and
+"quorum." He does not seem to have a quick ear for scansion, which would sometimes have assisted
+him to the true reading. We give an example or two:
+
+  "The obligation wherein we all stood bound
+  Cannot be concealed [cancelled] without great
+  reproach."
+
+    "The realm, not they,
+  Must be regarded. Be [we] strong and bold,
+  We are the people's factors."
+
+    "Shall not be o'erburdened [overburdened] in
+    our reign."
+
+    "A merry heart
+  And a good stomach to [a] feast are all."
+
+    "Have her meat serv'd up by bawds and
+    ruffians."  [dele "up."]
+
+  "Brother or father
+  In [a] dishonest suit, shall be to me."
+
+  "What's she in Rome your greatness cannot awe,
+  Or your rich purse purchase
+  Promises and threats." [dele the second "your."]
+
+  "Through clouds of envy and disast [rous] change."
+
+  "The Devil drives; 'tis [it is] full time to go."
+
+He has overlooked some strange blunders. What is the meaning of
+
+  "Laugh at your misery, as foredeeming you
+  An idle meteor, which drawn forth, the earth
+  Would soon be lost i' the air"?
+
+We hardly need say that it should be
+
+"An idle meteor, which, drawn forth the earth, would," &c.
+
+"Forwardness" for "frowardness," (Vol. II. p. 87,) "tennis-balls struck and banded" for "bandied,"
+(Ib. p. 275,) may be errors of the press; but:
+
+     "Come, I'll love you wisely:
+  That's jealousy,"
+
+has crept in by editorial oversight for "wisely, that's jealously." So have:
+
+  "Ay, the great emperor of [or] the mighty Cham";
+
+and:
+
+  "This wit [with] taking long journeys";
+
+and:
+
+  "Virginius, thou dost but supply my place,
+  I thine: Fortune hath lift me [thee] to my chair,
+  And thrown me headlong to thy pleading bar";
+
+and:
+
+  "I'll pour my soul into my daughter's belly, [body,]
+  And with my soldier's tears embalm her wounds."
+
+We suggest that the change of an a to an r would make sense of the following:--
+
+  "Come, my little punk, with thy two compositors,
+  to this unlawful painting-house,"
+
+[printing-house,] which Mr. Hazlitt awkwardly endeavors to explain by this note on the word
+compositors:--"i.e. (conjecturally), making up the composition of the picture"! Our readers
+can decide for themselves;--the passage occurs Vol. I. p. 214.
+
+We think Mr. Hazlitt's notes are, in the main, good; but we should like to know his authority
+for saying that pench means "the hole in a bench by which it was taken up,"--that "descant"
+means "look askant on,"--and that "I wis" is equivalent to "I surmise, imagine," which it surely
+is not in the passage to which his note is appended. On page 9, Vol. I., we read in the text,
+
+  "To whom, my lord, bends thus your awe,"
+
+and in the note, "i.e. submission." The original has aue, which, if it mean ave, is unmeaning
+here. Did Mr. Hazlitt never see a picture of the Annunciation with ave written on the scroll
+proceeding from the bending angel's mouth? We find the same word in Vol. III. p. 217,--
+
+  "Whose station's built on avees and applause."
+
+Vol. III. pp. 47-48:--
+
+  "And then rest, gentle bones; yet pray
+  That when by the precise you are view'd,
+  A supersedeas be not sued
+  To remove you to a place more airy,
+  That in your stead they may keep chary
+  Stockfish or seacoal, for the abuses
+  Of sacrilege have turned graves to viler uses."
+
+To the last verse Mr. Hazlitt appends this note, "Than that of burning men's bones for fuel."
+There is no allusion here to burning men's bones, but simply to the desecration of graveyards
+by building warehouses upon them, in digging the foundations for which the bones would be thrown
+out. The allusion is, perhaps, to the "Churchyard of the Holy Trinity";--see Stow's Survey,
+ed. 1603, p. 126. Elsewhere in the same play, Webster alludes bitterly to "begging church-land."
+
+Vol. I. p. 73, "And if he walk through the street, he ducks at the penthouses, like an ancient
+that dares not flourish at the oathtaking of the praetor for fear of the signposts." Mr. Hazlitt's
+note is, "Ancient was a standard or flag; also an ensign, of which Skinner says it is a corruption.
+What the meaning of the simile is the present editor cannot suggest." We confess we find no
+difficulty. The meaning plainly is, that he ducks for fear of hitting the penthouses, as an
+ensign on the Lord Mayor's day dares not flourish his standard for fear of hitting the signposts.
+We suggest the query, whether ancient, in this sense, be not a corruption of the Italian word
+anziano.
+
+Want of space compels us to leave many other passages, which we had marked for comment, unnoticed.
+We are surprised that Mr. Hazlitt, (see his Introduction to "Vittoria Coromboma,") in undertaking
+to give us some information concerning the Dukedom and Castle of Bracciano, should uniformly
+spell it Brachiano. Shakspeare's Petruchio might have put him on his guard. We should be glad
+also to know in what part of Italy he places Malfi.
+
+Mr. Hazlitt's General Introduction supplies us with no new information, but this was hardly
+to be expected where Mr. Dyce had already gone over the field. We wish that he had been able
+to give us better means of distinguishing the three almost contemporary John Websters one from
+the other, for we think the internal evidence is enough to show that all the plays attributed
+to the author of the "Duchess" and "Vittoria" could not have been written by the same author.
+On the whole, he has given us a very respectable, and certainly a very pretty, edition of an
+eminent poet.
+
+In leaving the subject, we cannot but express our satisfaction in comparing with these examples
+of English editorship the four volumes of Ballads recently published by Mr. Child. They are
+an honor to American scholarship and fidelity. Taste, learning, and modesty, the three graces
+of editorship, seem to have presided over the whole work. We hope soon, also, to be able to
+chronicle another creditable achievement in Mr. White's Shakspeare, which we look for with
+great interest.
+
+ History of the Inductive Sciences, from the Earliest to
+   the Present Time. By WILLIAM WHEWELL, D.D.,
+   Master of Trinity College, Cambridge. Third Edition,
+   with Additions. New York: D. Appleton & Co. 1858.
+   2 vols. 8vo. pp. 566, 648.
+
+We are heartily glad to welcome this reprint of the "History of the Inductive Sciences," from
+an improved edition. From an intimate acquaintance with the first edition, we should cordially
+recommend these volumes to those who wish to take a general survey of this department of human
+learning. The various subjects are, for the most part, treated in a manner intelligible and
+agreeable to the unlearned reader. As an authority, Whewell is generally trustworthy, and as
+a critic usually fair. But in a work going over so much ground it would be unreasonable to
+expect perfect accuracy, and uniformly just estimates of the labors of all scientific men.
+Dr. Whewell's scientific philosophy naturally affects his ability as an historian and critic.
+In his Bridgewater Treatise, he indulged in a fling at mathematics, for which we have never
+wholly forgiven him; and in the present volume we see repeated evidence of his underestimate
+of the value of the sciences of Space and Time. He says, Vol. I. p. 600, that it was an "erroneous
+assumption" in Plato to hold mathematical truths as "Realities more real than the Phenomena."
+But to us it seems impossible to understand any work of Nature aright, except by taking this
+view of Plato. The study of natural science is deserving of the contempt which Samuel Johnson
+bestowed upon it, if it be not a study of the thoughts of the Divine Mind. And as phenomena
+are subject to laws of space and time as their essential condition, they are primarily a revelation
+of the mathematical thoughts of the Creator. Those mathematical ideas are, in Erigena's phrase,
+the created creators of all that can appear.
+
+This false view of the mathematics lies at the foundation of Whewell's view of a type in organized
+nature. He conceives a genus to consist of those species which resemble the typical species
+of the genus more than they resemble the typical species of any other genus. It follows from
+this view that a species might be created that would not belong to any genus, but resemble
+equally the types of two or three genera. Thus, our little rue-leaved anemone might belong
+to the meadow rues or to the wind-flowers, at the pleasure of the botanist. We believe that
+classification is vastly more real than this, real as geometry itself. Another instance of
+a similar want of idealism in Dr. Whewell may be found in Vol. II. p. 643:--"Nothing is added
+to the evidence of design by the perception of a unity of plan which in no way tends to promote
+the design." Now to one who believes, with us, that a thought is as real as the execution of
+the thought, the perception of a unity of plan is the highest evidence of design. No more convincing
+evidence of the existence of an Intelligent Designer is to be found than in the unity of plan,--and
+his design, thus proved, is the completion of the plan. For what purpose he would complete
+it, is a secondary question.
+
+In this third edition many valuable additions have been made; and no tales of Oriental fancy
+could be more wonderful than some of these records of the discoveries in exact science made
+by our contemporaries. What more magical than the miracles performed every day in our telegraphic
+offices?--unless it be the transmission of human speech in that manner under the waves of the
+Mediterranean from Africa to Europe. What more like the dreams of alchemy than taking metallic
+casts, in cold metal, with infinitely more delicacy and accuracy than by melted metals,--taking
+them, too, from the most fragile and perishable moulds? What sounds more purely fanciful than
+to assert a connection between variations in the direction of the compass-needle and spots
+on the surface of the sun! or what is more improbable than that the period of solar spots should
+be ten years? What would seem to be more completely beyond the reach of human measurement than
+the relative velocities of light in air and in water, since the velocity in each is probably
+not less than a hundred thousand miles a second? Yet two different experimenters arrived, according
+to Whewell, in the same year, 1850, at the same result,-- that the motion is slower in water;
+thus supplying the last link of experimental proof to establish the undulatory theory of light.
+While the records of science are strewn on every page with accounts of such triumphs of human
+skill and intellect, we see no need of resorting to fiction or to necromancy for the gratification
+of a natural taste for the marvellous.
+
+It is true, Dr. Whewell does not give these discoveries, in the spirit of an alchemist, as
+marvels,--but in the spirit of a philosopher, as intellectual triumphs. Few men of our times
+have shown a more active and powerful mind, a more earnest love of truth for truth's sake,
+than the author of this History,--and few men have had a wider or more thorough knowledge of
+the achievements of other scientific men. Yet we are surprised, in reading this improved edition,
+written scarce a twelvemonth ago, to find how ignorant Dr. Whewell appears to have been of
+the existence or value of the contributions to knowledge made on this side the Atlantic. The
+chapter on Electro-Magnetism does not allude to the discoveries of Joseph Henry, in regard
+to induced currents, and the adaptation of varying batteries to varying circuits,--discoveries
+second in importance only to those of Faraday,--and which were among the direct means of leading
+Morse to the invention of the telegraph. The chapters on Geology do not mention Professor Hall,
+and only allude in a patronizing way to the labors of American geologists, and to the ease
+of "reducing their classification to its synonymes and equivalents in the Old World," as though
+the historian were not aware that Hall's nomenclature is adopted on the continent of Europe
+by the most eminent men in that department of science. In Geological Dynamics Dr. Whewell speaks
+slightingly of glacial action, and approves of Forbes's semifluid theory, in utter ignorance,
+it would seem, of the labors of the Swiss geologists who now honor America with their presence.
+The chapters on Zoology, and on Classifications of Animals, make no allusion to Agassiz's introduction
+of Embryology as an element in classification, which was published several years before the
+"close of 1856." The history of Neptune gives no hint of the fact, that its orbit was first
+determined through the labors of American astronomers, with all the accuracy that fifty years
+of observation might otherwise have been required to secure. Nor does Dr. Whewell allude to
+the fact, that Peirce alone has demonstrated the accuracy of Le Verrier's and Adams's computations,
+and shown that a planet in the place which they erroneously assigned to Neptune would produce
+the same perturbations of Uranus as those which Neptune produced. Much less does he allude
+to that wonderful demonstration by Peirce of the younger Bond's hypothesis, that the rings
+of Saturn are fluid; or to Peirce's remark, that the belt of the asteroids lies in the region
+in which the sun could most nearly sustain a ring. Yet all these points are more important
+than many of those which he introduces, and more to the purpose of his chapters.
+
+Notwithstanding these deficiencies in Whewell's scholarship and in his philosophy, his History
+is a valuable addition to our modern literature, and gives a better sketch of the whole ground
+than can be found in any other single work. It is particularly valuable to those whose ordinary
+pursuits lead them into other fields than those of science, and we have known such to acknowledge
+their great obligations to these clearly written and most suggestive volumes.
+
+ The Life of George Stephenson, Railway Engineer.
+   By SAMUEL SMILES. From the
+   Fourth London Edition. Boston: Ticknor
+   & Fields.
+
+There is something sublime about railway engineers. But what shall we say of the pioneer of
+this almost superhuman profession? The world would give much to know what Vulcan, Hercules,
+Theseus, and other celebrities of that sort, really did in their mortal lives to win the places
+they now occupy in our classical dictionaries, and what sort of people they really were. But
+whatever they did, manifestly somebody, within a generation or two, has done something quite
+as memorable. Whether the world is quite awake to the fact or not, it has lately entered on
+a new order of ages. Formerly it hovered about shores, and built its Tyres, Venices, Amsterdams,
+and London only near navigable waters, because it was easier to traverse a thousand miles of
+fluid than a hundred miles of solid surface. Now the case is nearly reversed. The iron rail
+is making the continent all coast, anywhere near neighbor to everywhere, and central cities
+as populous as seaports. Not only is all the fertility of the earth made available, but fertility
+itself can be made by our new power of transportation.
+
+Who more than other man or men has done this? Is there any chance for a new mythology? Can
+we make a Saturn of Solomon de Caus, who caught a prophetic glimpse of the locomotive two hundred
+years ago, and went to a mad-house, without going mad, because a cardinal had the instinct
+to see that the hierarchy would get into hot water by allowing the French monarch to encourage
+steam? Can we make a Jupiter of Mr. Hudson, one bull having been plainly sacrificed to him?
+and shall Robert Schuyler serve us for Pluto? Shall we find Neptune, with his sleeves rolled
+up, on the North River, commanding the first practical steamboat, under the name of Robert
+Fulton? However this may be, we think Mr. Smiles has made out a quite available demigod in
+his well-sketched Railway Engineer. George Stephenson did not invent the railway or the locomotive,
+but he did first put the breath of its life into the latter. He built the first locomotive
+that could work more economically than a horse, and by so doing became the actual father of
+the railroad system. In 1814, he found out and applied the steam-blast, whereby the waste steam
+from the cylinders is used to increase the combustion, so that the harder the machine works,
+the greater is its power to work. From that moment he foresaw what has since happened, and
+fought like a Titan against the world--the men of land, the men of science, and the men of
+law--to bring it about.
+
+But before we go farther, who was this George Stephenson? A collier-boy,--his father fireman
+to an old pumping-engine which drained a Northumbrian coal-mine,--his highest ambition of boyhood
+to be "taken on" to have something to do about the mine. And he was taken on to pick over the
+coal, and finally to groom the engine, which he did with the utmost care and veneration, learning
+how to keep it well and doctor it when ill. He took wonderfully to steam-engines, and finally,
+for their sake, to his letters, at the age of seventeen! He became steam-engineer to large
+mines. Of his own genius and humanity, he studied the nature of fire-damp explosions, and,
+what is not more wonderful than well proven, invented a miner's safety-lamp, on the same principle
+as Sir Humphrey Davy's, and tested it at the risk of his life, a month or two before Sir Humphrey
+invented his, or published a syllable about it to the world! He engineered the Stockton and
+Darlington Railway. He was thereupon appointed engineer of the Liverpool and Manchester Railway.
+Though the means of transportation between those cities, some thirty miles, were so inadequate
+that it took longer to get cotton conveyed from Liverpool to Manchester than from New York
+to Liverpool, yet it was with the utmost difficulty that a grant of the right to build a railway
+could be obtained from Parliament. There was little faith in such roads, and still less in
+steam-traction. The land-owners were opposed to its passage through their domains, and obliged
+Mr. Stephenson to survey by stealth or at the risk of a broken head. So great was this opposition,
+that the projectors were fain to lay out their road for four miles across a remarkable Slough
+of Despond, called Chat Moss, where a scientific civil-engineer testified before Parliament
+that he did not think it practicable to make a railway, or, if practicable, at not less cost
+than L270,000 for cutting and embankment. George Stephenson, after being almost hooted out
+of the witness-box for testifying that it could be done, and that locomotives could draw trains
+over it and elsewhere at the rate of twelve miles an hour,--for which last extravagance his
+own friends rebuked him,--carried the road over Chat Moss for L28,000, and his friends over
+that at the rate of thirty miles an hour. Thus he broke the back of the war, and lived to fill
+England with railroads as the fruits of his victory; all which, and a great deal more of the
+same sort, the reader will find admirably told by Mr. Smiles,--albeit we cannot but smile too,
+that, when addressing the universal English people, he expects them to understand such provincialisms
+as wage for wages, leading coals for carrying coal, and the like. But, nevertheless, his freedom
+from literary pretence is really refreshing, and his thoroughness in matters of fact is worthy
+of almost unlimited commendation. On the important question, Who invented the locomotive steam-blast?
+had Mr. Smiles made in his book as good use of his materials as he has since elsewhere, he
+would have saved some engineers and one or two mechanical editors from putting their feet into
+unpleasant places. Our Railroad Manuals, that have adopted the error of attributing this great
+invention to "Timothy Hackworth, in 1827," should be made to read, "George Stephenson, in 1814."
+Their authors, and all others, should read Samuel Smiles, the uppermost, by a whole sky, of
+all railway biographers.
+
+ A Volume of Vocabularies, illustrating the Condition and Manners
+  of our Forefathers, as well as the History of the Forms of
+  Elementary Education and of the Languages spoken in this Island,
+  from the Tenth Century to the Fifteenth. Edited, from MSS. in
+  Public and Private Collections, by THOMAS WRIGHT, ESQ., etc.
+  Privately printed. [London.] 1857. 8vo. pp. 291.
+
+Mr. Wright, in editing this handsome volume, has done another service to the lovers and students
+of English glossology. Their thanks are also due to Mr. Joseph Mayer, who generously bore the
+expense of printing the book.
+
+A great deal that is interesting to the student of general history lies imbedded in language,
+and Mr. Wright, in a very agreeable Introduction, has summarized the chief matters of value
+in the collection before us, which comprises the printed copies of sixteen ancient MSS. of
+various dates. As far as we have had time to examine it, the book seems to have been edited
+with care and discretion, and Mr. Wright has added much to its value by timely and judicious notes.
+
+Most of the vocabularies here printed (many of them for the first time) were intended for the
+use of schoolmasters, and throw great light on the means and methods of teaching during the
+periods at which they were compiled. Mr. Wright tells us that there exist very few MSS. of
+educational treatises of the fourteenth century, (during which teaching would accordingly seem
+to have been neglected,) in comparison with the thirteenth and fifteenth, when such works were
+abundant. To all who would trace the history of education in England and follow up our common-school
+system to its source, the editor's Introduction will afford valuable hints.
+
+The following extracts from Mr. Wright's Introduction will give some notion of the archaeological
+and philological value of the volume.
+
+  "It is this circumstance of grouping the
+  words under different heads which gives these
+  vocabularies their value as illustrations of the
+  conditions and manners of society. It is evident
+  that the compiler gave, in each case, the
+  names of all such things as habitually presented
+  themselves to his view, or, in other
+  words, that he presents us with an exact list
+  and description of all the objects which were
+  in use at the time he wrote, and no more.
+  We have, therefore, in each a sort of measure
+  of the fashions and comforts and utilities of
+  contemporary life, as well as, in some cases, of
+  its sentiments. Thus, to begin with a man's
+  habitation, his house,--the words which describe
+  the parts of the Anglo-Saxon house are
+  few in number, a heal or hall, a bur or bedroom,
+  and in some cases a cicen or kitchen,
+  and the materials are chiefly beams of wood,
+  laths, and plaster. But when we come to
+  the vocabularies of the Anglo-Norman period,
+  we soon find traces of that ostentation in domestic
+  buildings which William of Malmsbury
+  assures us that the Normans introduced
+  into this island; the house becomes more
+  massive, and the rooms more numerous, and
+  more diversified in their purposes. When we
+  look at the furniture of the house, the difference
+  is still more apparent. The description
+  given by Alexander Neckam of the hall, the
+  chambers, the kitchen, and the other departments
+  of the ordinary domestic establishment,
+  in the twelfth century, and the furniture
+  of each, almost brings them before our
+  eyes, and nothing could be more curious than
+  the account which the same writer gives us
+  of the process of building and storing a castle."
+      p. xv.
+
+"The philologist will appreciate the tracts printed in the following pages as a continuous
+series of very valuable monuments of the languages spoken in our island during the Middle Ages.
+It is these vocabularies alone which have preserved from oblivion a very considerable and interesting
+portion of the Anglo-Saxon tongue, and without their assistance our Anglo-Saxon dictionaries
+would be far more imperfect than they are. I have endeavored to collect together in the present
+volume all the Anglo-Saxon vocabularies that are known to exist, not only on account of their
+diversity, but because I believe that their individual utility will be increased by thus presenting
+them in a collective form. They represent the Anglo-Saxon language as it existed in the tenth
+and eleventh centuries; and, as written no doubt in different places, they may possibly present
+some traces of the local dialects of that period. The curious semi-Saxon vocabulary is chiefly
+interesting as representing the Anglo-Saxon in its period of transition, when it was in a state
+of rapid decadence. The interlinear gloss to Alexander Neckam, and the commentary on John de
+Garlande, are most important monuments of the language which for a while usurped among our
+forefathers the place of the Anglo-Saxon, and which we know by the name of the Anglo-Norman.
+In the partial vocabulary of the names of plants, which follows them, we have the two languages
+in juxtaposition, the Anglo-Saxon having then emerged from that state which has been termed
+semi-Saxon, and become early English. We are again introduced to the English language more
+generally by Walter de Biblesworth, the interlinear gloss to whose treatise represents, no
+doubt, the English of the beginning of the fourteenth century. All the subsequent vocabularies
+given here belong, as far as the language is concerned, to the fifteenth century. As written
+in different parts of the country, they bear evident marks of dialect; one of them--the vocabulary
+in Latin verse--is a very curious relic of the dialect of the West of England at a period of
+which such remains are extremely rare."--p. xix.
+
+ Sermons, preached at Trinity Chapel, Brighton. By the late REV.
+  FREDERICK W. ROBERTSON, M. A., the Incumbent. Second Series. From
+  the Fourth London Edition. Boston: Ticknor & Fields. 12mo.
+
+The biography of Robertson, prefixed to this volume, will gratify the curiosity which every
+sympathetic reader of the first series of his sermons must have felt regarding the incidents
+of his career. It was evident to a close observer that the peculiar charm and power of the
+preacher came from peculiarities of character and individual experience, as well as from peculiarities
+of mind. There was something so close and searching in his pathos, so natural in his statements
+of doctrine, so winning in his appeals,--his simplest words of consolation or rebuke touched
+with such subtile certainty the feelings they addressed,--and his faith in heavenly things
+was so clear, deep, intense, and calm,--that the reader could hardly fail to feel that the
+earnestness of the preacher had its source in the experience of the man, and that his belief
+in the facts of the spiritual world came from insight, and not from hearsay. His biography
+confirms this impression. We now learn that he was tried in many ways, and built up a noble
+character through intense inward struggle with suffering and calamity,--a character sensitive,
+tender, magnanimous, brave, and self-sacrificing, though not thoroughly cheerful. The heroism
+evinced in his life and in his sermons is a sad heroism, a heroism that has on it the trace
+of tears. Always at work, and dying in harness, the spur of duty made him insensible to the
+decay of strength and the need of repose. He had no time to be happy.
+
+The most striking mental characteristic of his sermons is the originality of his perceptions
+of religious truth. He takes up the themes and doctrines of the Church, the discussion of which
+has filled libraries with books of divinity which stand as an almost impregnable wall around
+the simple facts and teachings of the Scriptures, protecting them from attack by shutting them
+from sight, and in a few brief and direct statements cuts into the substance and heart of the
+subjects. This felicity comes partly from his being a man gifted with spiritual discernment
+as well as spiritual feeling, and partly from the instinct of his nature to look at doctrines
+in their connection with life. He excels equally in interpreting the truth which may be hidden
+in a dogma, and in overturning dogmas in which no truth is to be found. In a single sermon,
+he often tells us more of the essentials of a subject, and exhibits more clearly the religious
+significance of a doctrine, than other writers have done in labored volumes of exposition and
+controversy. This power of simplifying spiritual truth without parting with any of its depth
+accounts for the interest with which his sermons are read by persons of all degrees of age
+and culture. His method of arrangement is also admirable; his thoughts are not only separately
+excellent, but are all in their right places, so that each is an efficient agent in deepening
+the general impression left by the whole. The singular refinement and beauty of his mind lend
+a peculiar charm to its boldness; we have the soul of courage without the rough outside which
+so often accompanies it; and his diction, being on a level with his themes, never offends that
+fine detecting spiritual taste which instinctively takes offence when spiritual things are
+viewed through unspiritual moods and clothed in words which smack of the senses. Combine all
+his characteristics, his intrepidity of disposition and intellect, his deep experience of religious
+truth, the sad earnestness of his faith, his penetration of thought, his direct, executive
+expression, and the beauty which pervades and harmonizes all,--and it is hazarding little to
+say, that his volumes will take the rank of classics in the department of theology to which
+they belong.
+
+ The Church and the Congregation. A Plea
+   for their Unity. By C. A. BARTOL.
+   Boston: Ticknor & Fields. 16mo.
+
+As church-membership is in some respects the aristocracy of Congregationalism, and as it is
+considered by many minds to be as necessary for the safety of theology as the old distinction
+of esoteric and exoteric was for the safety of philosophy, the publication by a clergyman of
+such a volume as this, with its purpose clearly indicated by its title, will excite some surprise,
+and certainly should excite discussion. Mr. Bartol contends for open communion, as most consonant
+with Scripture, with the spirit of Christianity, with the practice of the early Church, with
+the meaning and purpose of the rite. He denies that the ordinance of the Lord's Supper has
+any sacredness above prayer, or any of the other ordinances of religion; and while he appreciates
+and perhaps exaggerates its importance, he thinks that its most beneficent effects will be
+seen when it is the symbol of unity, and not of division. The usual distinction between Church
+and Congregation he considers invidious and mischievous, as not indicating a corresponding
+distinction in religious character, and as separating the body of Christian worshippers into
+two parts by a mechanical rather than spiritual process. Though he meets objections with abundant
+controversial ability, the strength of his position is due not so much to his negative arguments
+as to his affirmative statements; for his statements have in them the peculiar vitality of
+that mood of meditation in which spiritual things are directly beheld rather than logically
+inferred, and, being thus the expression of spiritual perceptions, they feel their way at once
+to the spiritual perceptions of the reader, to be judged by the common sense of the soul instead
+of the common sense of the understanding. This is the highest quality of the book, and indicates
+not only that the author has religion, but religious genius; but there is also much homely
+sagacity evinced in viewing what may be called the practical aspects of the subject, and answering
+from experience the objections which experience may raise. The writer is so deeply in earnest,
+has meditated so intensely on the subject, and is so free from the repellent qualities which
+are apt to embitter theological controversies, that even when his ideas come into conflict
+with the most obstinate prejudices and rooted convictions, there is nothing in his mode of
+stating or enforcing them to give offence. The book will win its way by the natural force of
+what truth there is in it, and the most that an opponent can say is, that the author is in
+error; it cannot be said that he is arrogant, contemptuous, self-asserting, or that he needlessly
+shocks the opinions he aims to change.
+
+Mr. Bartol's style is bold, fervid, and figurative, exhibiting a wide command of language and
+illustration, and at times rising into passages of singular beauty and eloquence. The fertility
+of his mind in analogies enables him to strengthen his leading conception with a large number
+of related thoughts, and the whole subject of vital Christianity is thus continually in view,
+and connected with the special theme he discusses. This characteristic will make his volume
+interesting and attractive to many readers who are either opposed to his views of the Lord's
+Supper, or are unable to agree with him in regard to the importance of the change he proposes.
