@@ -1,0 +1,337 @@
+﻿Mr. Mivart further objects to the alleged rigidity of the action of natural selection, because
+wounded or malformed animals have been found which had evidently lived a considerable time
+in their imperfect condition. But this simply proves that they were living under a temporarily
+favourable environment, and that the real struggle for existence, in their case, had not yet
+taken place. We must surely admit that, when the pinch came, and when perfectly formed stoats
+were dying for want of food, the one-footed animal, referred to by Mr. Mivart, would be among
+the first to succumb; and the same remark will apply to his abnormally toothed hares and rheumatic
+monkeys, which might, nevertheless, get on very well under favourable conditions. The struggle
+for existence, under which all animals and plants have been developed, is intermittent, and
+exceedingly irregular in its incidence and severity. It is most severe and fatal to the young;
+but when an animal has once reached maturity, and especially when it has gained experience
+by several years of an eventful existence, it may be able to maintain itself under conditions
+which would be fatal to a young and inexperienced creature of the same species. The examples
+adduced by Mr. Mivart do not, therefore, in any way impugn the hardness of nature as a taskmaster,
+or the extreme severity of the recurring struggle for existence. (See Nature, vol. xxxix. p. 127.)]
+
+[Footnote 46: Origin of Species, p. 72.]
+
+[Footnote 47: Darwin's latest expression of opinion on this question is interesting, since
+it shows that he was inclined to return to his earlier view of the general, or universal, utility
+of specific characters. (Life of Darwin, vol. iii. p. 161).]
+
+[Footnote 48: See Variation of Animals and Plants, vol. i. p. 86.]
+
+[Footnote 49: Journal of the Linnean Society, Zoology, vol. xx. p. 215.]
+
+[Footnote 50: In Mr. Gulick's last paper (Journal of Linn. Soc. Zool., vol. xx. pp. 189-274)
+he discusses the various forms of isolation above referred to, under no less than thirty-eight
+different divisions and subdivisions, with an elaborate terminology, and he argues that these
+will frequently bring about divergent evolution without any change in the environment or any
+action of natural selection.
+
+One of the greatest, or perhaps we may say the greatest, of all the difficulties in the way
+of accepting the theory of natural selection as a complete explanation of the origin of species,
+has been the remarkable difference between varieties and species in respect of fertility when
+crossed. Generally speaking, it may be said that the varieties of any one species, however
+different they may be in external appearance, are perfectly fertile when crossed, and their
+mongrel offspring are equally fertile when bred among themselves; while distinct species, on
+the other hand, however closely they may resemble each other externally, are usually infertile
+when crossed, and their hybrid offspring absolutely sterile. This used to be considered a fixed
+law of nature, constituting the absolute test and criterion of a species as distinct from a
+variety; and so long as it was believed that species were separate creations, or at all events
+had an origin quite distinct from that of varieties, this law could have no exceptions, because,
+if any two species had been found to be fertile when crossed and their hybrid offspring to
+be also fertile, this fact would have been held to prove them to be not species but varieties.
+On the other hand, if two varieties had been found to be infertile, or their mongrel offspring
+to be sterile, then it would have been said: These are not varieties but true species. Thus
+the old theory led to inevitable reasoning in a circle; and what might be only a rather common
+fact was elevated into a law which had no exceptions.
+
+The elaborate and careful examination of the whole subject by Mr. Darwin, who has brought together
+a vast mass of evidence from the experience of agriculturists and horticulturists, as well
+as from scientific experimenters, has demonstrated that there is no such fixed law in nature
+as was formerly supposed. He shows us that crosses between some varieties are infertile or
+even sterile, while crosses between some species are quite fertile; and that there are besides
+a number of curious phenomena connected with the subject which render it impossible to believe
+that sterility is anything more than an incidental property of species, due to the extreme
+delicacy and susceptibility of the reproductive powers, and dependent on physiological causes
+we have not yet been able to trace. Nevertheless, the fact remains that most species which
+have hitherto been crossed produce sterile hybrids, as in the well-known case of the mule;
+while almost all domestic varieties, when crossed, produce offspring which are perfectly fertile
+among themselves. I will now endeavour to give such a sketch of the subject as may enable the
+reader to see something of the complexity of the problem, referring him to Mr. Darwin's works
+for fuller details.
+
+Extreme Susceptibility of the Reproductive Functions.
+
+One of the most interesting facts, as showing how susceptible to changed conditions or to slight
+constitutional changes are the reproductive powers of animals, is the very general difficulty
+of getting those which are kept in confinement to breed; and this is frequently the only bar
+to domesticating wild species. Thus, elephants, bears, foxes, and numbers of species of rodents,
+very rarely breed in confinement; while other species do so more or less freely. Hawks, vultures,
+and owls hardly ever breed in confinement; neither did the falcons kept for hawking ever breed.
+Of the numerous small seed-eating birds kept in aviaries, hardly any breed, neither do parrots.
+Gallinaceous birds usually breed freely in confinement, but some do not; and even the guans
+and curassows, kept tame by the South American Indians, never breed. This shows that change
+of climate has nothing to do with the phenomenon; and, in fact, the same species that refuse
+to breed in Europe do so, in almost every case, when tamed or confined in their native countries.
+This inability to reproduce is not due to ill-health, since many of these creatures are perfectly
+vigorous and live very long.
+
+With our true domestic animals, on the other hand, fertility is perfect, and is very little
+affected by changed conditions. Thus, we see the common fowl, a native of tropical India, living
+and multiplying in almost every part of the world; and the same is the case with our cattle,
+sheep, and goats, our dogs and horses, and especially with domestic pigeons. It therefore seems
+probable, that this facility for breeding under changed conditions was an original property
+of the species which man has domesticated--a property which, more than any other, enabled him
+to domesticate them. Yet, even with these, there is evidence that great changes of conditions
+affect the fertility. In the hot valleys of the Andes sheep are less fertile; while geese taken
+to the high plateau of Bogota were at first almost sterile, but after some generations recovered
+their fertility. These and many other facts seem to show that, with the majority of animals,
+even a slight change of conditions may produce infertility or sterility; and also that after
+a time, when the animal has become thoroughly acclimatised, as it were, to the new conditions,
+the infertility is in some cases diminished or altogether ceases. It is stated by Bechstein
+that the canary was long infertile, and it is only of late years that good breeding birds have
+become common; but in this case no doubt selection has aided the change.
+
+As showing that these phenomena depend on deep-seated causes and are of a very general nature,
+it is interesting to note that they occur also in the vegetable kingdom. Allowing for all the
+circumstances which are known to prevent the production of seed, such as too great luxuriance
+of foliage, too little or too much heat, or the absence of insects to cross-fertilise the flowers,
+Mr. Darwin shows that many species which grow and flower with us, apparently in perfect health,
+yet never produce seed. Other plants are affected by very slight changes of conditions, producing
+seed freely in one soil and not in another, though apparently growing equally well in both;
+while, in some cases, a difference of position even in the same garden produces a similar result.[51]
+
+Reciprocal Crosses.
+
+Another indication of the extreme delicacy of the adjustment between the sexes, which is necessary
+to produce fertility, is afforded by the behaviour of many species and varieties when reciprocally
+crossed. This will be best illustrated by a few of the examples furnished us by Mr. Darwin.
+The two distinct species of plants, Mirabilis jalapa and M. longiflora, can be easily crossed,
+and will produce healthy and fertile hybrids when the pollen of the latter is applied to the
+stigma of the former plant. But the same experimenter, Kölreuter, tried in vain, more than
+two hundred times during eight years, to cross them by applying the pollen of M. jalapa to
+the stigma of M. longiflora. In other cases two plants are so closely allied that some botanists
+class them as varieties (as with Matthiola annua and M. glabra), and yet there is the same
+great difference in the result when they are reciprocally crossed.
+
+Individual Differences in respect to Cross-Fertilisation.
+
+A still more remarkable illustration of the delicate balance of organisation needful for reproduction,
+is afforded by the individual differences of animals and plants, as regards both their power
+of intercrossing with other individuals or other species, and the fertility of the offspring
+thus produced. Among domestic animals, Darwin states that it is by no means rare to find certain
+males and females which will not breed together, though both are known to be perfectly fertile
+with other males and females. Cases of this kind have occurred among horses, cattle, pigs,
+dogs, and pigeons; and the experiment has been tried so frequently that there can be no doubt
+of the fact. Professor G.J. Romanes states that he has a number of additional cases of this
+individual incompatibility, or of absolute sterility, between two individuals, each of which
+is perfectly fertile with other individuals.
+
+During the numerous experiments that have been made on the hybridisation of plants similar
+peculiarities have been noticed, some individuals being capable, others incapable, of being
+crossed with a distinct species. The same individual peculiarities are found in varieties,
+species, and genera. Kölreuter crossed five varieties of the common tobacco (Nicotiana tabacum)
+with a distinct species, Nicotiana glutinosa, and they all yielded very sterile hybrids; but
+those raised from one variety were less sterile, in all the experiments, than the hybrids from
+the four other varieties. Again, most of the species of the genus Nicotiana have been crossed,
+and freely produce hybrids; but one species, N. acuminata, not particularly distinct from the
+others, could neither fertilise, nor be fertilised by, any of the eight other species experimented
+on. Among genera we find some--such as Hippeastrum, Crinum, Calceolaria, Dianthus--almost all
+the species of which will fertilise other species and produce hybrid offspring; while other
+allied genera, as Zephyranthes and Silene, notwithstanding the most persevering efforts, have
+not produced a single hybrid even between the most closely allied species.
+
+Dimorphism and Trimorphism.
+
+Peculiarities in the reproductive system affecting individuals of the same species reach their
+maximum in what are called heterostyled, or dimorphic and trimorphic flowers, the phenomena
+presented by which form one of the most remarkable of Mr. Darwin's many discoveries. Our common
+cowslip and primrose, as well as many other species of the genus Primula, have two kinds of
+flowers in about equal proportions. In one kind the stamens are short, being situated about
+the middle of the tube of the corolla, while the style is long, the globular stigma appearing
+just in the centre of the open flower. In the other kind the stamens are long, appearing in
+the centre or throat of the flower, while the style is short, the stigma being situated halfway
+down the tube at the same level as the stamens in the other form. These two forms have long
+been known to florists as the "pin-eyed" and the "thrum-eyed," but they are called by Darwin
+the long-styled and short-styled forms (see woodcut).
+
+The meaning and use of these different forms was quite unknown till Darwin discovered, first,
+that cowslips and primroses are absolutely barren if insects are prevented from visiting them,
+and then, what is still more extraordinary, that each form is almost sterile when fertilised
+by its own pollen, and comparatively infertile when crossed with any other plant of its own
+form, but is perfectly fertile when the pollen of a long-styled is carried to the stigma of
+a short-styled plant, or vice versâ. It will be seen, by the figures, that the arrangement
+is such that a bee visiting the flowers will carry the pollen from the long anthers of the
+short-styled form to the stigma of the long-styled form, while it would never reach the stigma
+of another plant of the short-styled form. But an insect visiting, first, a long-styled plant,
+would deposit the pollen on the stigma of another plant of the same kind if it were next visited;
+and this is probably the reason why the wild short-styled plants were found to be almost always
+most productive of seed, since they must be all fertilised by the other form, whereas the long-styled
+plants might often be fertilised by their own form. The whole arrangement, however, ensures
+cross-fertilisation; and this, as Mr. Darwin has shown by copious experiments, adds both to
+the vigour and fertility of almost all plants as well as animals.
+
+Besides the primrose family, many other plants of several distinct natural orders present similar
+phenomena, one or two of the most curious of which must be referred to. The beautiful crimson
+flax (Linum grandiflorum) has also two forms, the styles only differing in length; and in this
+case Mr. Darwin found by numerous experiments, which have since been repeated and confirmed
+by other observers, that each form is absolutely sterile with pollen from another plant of
+its own form, but abundantly fertile when crossed with any plant of the other form. In this
+case the pollen of the two forms cannot be distinguished under the microscope (whereas that
+of the two forms of Primula differs in size and shape), yet it has the remarkable property
+of being absolutely powerless on the stigmas of half the plants of its own species. The crosses
+between the opposite forms, which are fertile, are termed by Mr. Darwin "legitimate," and those
+between similar forms, which are sterile, "illegitimate"; and he remarks that we have here,
+within the limits of the same species, a degree of sterility which rarely occurs except between
+plants or animals not only of different species but of different genera.
+
+But there is another set of plants, the trimorphic, in which the styles and stamens have each
+three forms--long, medium, and short, and in these it is possible to have eighteen different
+crosses. This seems to show us, in the first place, that variations in the mutual relations
+of the reproductive organs of different individuals must be as frequent as structural variations
+have been shown to be; and, also, that sterility in itself can be no test of specific distinctness.
+But this point will be better considered when we have further illustrated and discussed the
+complex phenomena of hybridity.
+
+Cases of the Fertility of Hybrids, and of the Infertility of Mongrels.
+
+I now propose to adduce a few cases in which it has been proved, by experiment, that hybrids
+between two distinct species are fertile inter se; and then to consider why it is that such
+cases are so few in number.
+
+The common domestic goose (Anser ferns) and the Chinese goose (A. cygnoides) are very distinct
+species, so distinct that some naturalists have placed them in different genera; yet they have
+bred together, and Mr. Eyton raised from a pair of these hybrids a brood of eight. This fact
+was confirmed by Mr. Darwin himself, who raised several fine birds from a pair of hybrids which
+were sent him.[53] In India, according to Mr. Blyth and Captain Hutton, whole flocks of these
+hybrid geese are kept in various parts of the country where neither of the pure parent species
+exists, and as they are kept for profit they must certainly be fully fertile.
+
+Another equally striking case is that of the Indian humped and the common cattle, species which
+differ osteologically, and also in habits, form, voice, and constitution, so that they are
+by no means closely allied; yet Mr. Darwin assures us that he has received decisive evidence
+that the hybrids between these are perfectly fertile inter se.
+
+Dogs have been frequently crossed with wolves and with jackals, and their hybrid offspring
+have been found to be fertile inter se to the third or fourth generation, and then usually
+to show some signs of sterility or of deterioration. The wolf and dog may be originally the
+same species, but the jackal is certainly distinct; and the appearance of infertility or of
+weakness is probably due to the fact that, in almost all these experiments, the offspring of
+a single pair--themselves usually from the same litter--- were bred in-and-in, and this alone
+sometimes produces the most deleterious effects. Thus, Mr. Low in his great work on the Domesticated
+Animals of Great Britain, says: "If we shall breed a pair of dogs from the same litter, and
+unite again the offspring of this pair, we shall produce at once a feeble race of creatures;
+and the process being repeated for one or two generations more, the family will die out, or
+be incapable of propagating their race. A gentleman of Scotland made the experiment on a large
+scale with certain foxhounds, and he found that the race actually became monstrous and perished
+utterly." The same writer tells us that hogs have been made the subject of similar experiments:
+"After a few generations the victims manifest the change induced in the system. They become
+of diminished size; the bristles are changed into hairs; the limbs become feeble and short;
+the litters diminish in frequency, and in the number of the young produced; the mother becomes
+unable to nourish them, and, if the experiment be carried as far as the case will allow, the
+feeble, and frequently monstrous offspring, will be incapable of being reared up, and the miserable
+race will utterly perish."[54]
+
+These precise statements, by one of the greatest authorities on our domesticated animals, are
+sufficient to show that the fact of infertility or degeneracy appearing in the offspring of
+hybrids after a few generations need not be imputed to the fact of the first parents being
+distinct species, since exactly the same phenomena appear when individuals of the same species
+are bred under similar adverse conditions. But in almost all the experiments that have hitherto
+been made in crossing distinct species, no care has been taken to avoid close interbreeding
+by securing several hybrids from quite distinct stocks to start with, and by having two or
+more sets of experiments carried on at once, so that crosses between the hybrids produced may
+be occasionally made. Till this is done no experiments, such as those hitherto tried, can be
+held to prove that hybrids are in all cases infertile inter se.
+
+It has, however, been denied by Mr. A.H. Huth, in his interesting work on The Marriage of Near
+Kin, that any amount of breeding in-and-in is in itself hurtful; and he quotes the evidence
+of numerous breeders whose choicest stocks have always been so bred, as well as cases like
+the Porto Santo rabbits, the goats of Juan Fernandez, and other cases in which animals allowed
+to run wild have increased prodigiously and continued in perfect health and vigour, although
+all derived from a single pair. But in all these cases there has been rigid selection by which
+the weak or the infertile have been eliminated, and with such selection there is no doubt that
+the ill effects of close interbreeding can be prevented for a long time; but this by no means
+proves that no ill effects are produced. Mr. Huth himself quotes M. Allié, M. Aubé, Stephens,
+Giblett, Sir John Sebright, Youatt, Druce, Lord Weston, and other eminent breeders, as finding
+from experience that close interbreeding does produce bad effects; and it cannot be supposed
+that there would be such a consensus of opinion on this point if the evil were altogether imaginary.
+Mr. Huth argues, that the evil results which do occur do not depend on the close interbreeding
+itself, but on the tendency it has to perpetuate any constitutional weakness or other hereditary
+taints; and he attempts to prove this by the argument that "if crosses act by virtue of being
+a cross, and not by virtue of removing an hereditary taint, then the greater the difference
+between the two animals crossed the more beneficial will that act be." He then shows that,
+the wider the difference the less is the benefit, and concludes that a cross, as such, has
+no beneficial effect. A parallel argument would be, that change of air, as from inland to the
+sea-coast, or from a low to an elevated site, is not beneficial in itself, because, if so,
+a change to the tropics or to the polar regions should be more beneficial. In both these cases
+it may well be that no benefit would accrue to a person in perfect health; but then there is
+no such thing as "perfect health" in man, and probably no such thing as absolute freedom from
+constitutional taint in animals. The experiments of Mr. Darwin, showing the great and immediate
+good effects of a cross between distinct strains in plants, cannot be explained away; neither
+can the innumerable arrangements to secure cross-fertilisation by insects, the real use and
+purport of which will be discussed in our eleventh chapter. On the whole, then, the evidence
+at our command proves that, whatever may be its ultimate cause, close interbreeding does usually
+produce bad results; and it is only by the most rigid selection, whether natural or artificial,
+that the danger can be altogether obviated.
+
+Fertile Hybrids among Animals.
+
+One or two more cases of fertile hybrids may be given before we pass on to the corresponding
+experiments in plants. Professor Alfred Newton received from a friend a pair of hybrid ducks,
+bred from a common duck (Anas boschas), and a pintail (Dafila acuta). From these he obtained
+four ducklings, but these latter, when grown up, proved infertile, and did not breed again.
+In this case we have the results of close interbreeding, with too great a difference between
+the original species, combining to produce infertility, yet the fact of a hybrid from such
+a pair producing healthy offspring is itself noteworthy.
+
+Still more extraordinary is the following statement of Mr. Low: "It has been long known to
+shepherds, though questioned by naturalists, that the progeny of the cross between the sheep
+and goat is fertile. Breeds of this mixed race are numerous in the north of Europe."[55] Nothing
+appears to be known of such hybrids either in Scandinavia or in Italy; but Professor Giglioli
+of Florence has kindly given me some useful references to works in which they are described.
+The following extract from his letter is very interesting: "I need not tell you that there
+being such hybrids is now generally accepted as a fact. Buffon (Supplements, tom. iii. p. 7,
+1756) obtained one such hybrid in 1751 and eight in 1752. Sanson (La Culture, vol. vi. p. 372,
+1865) mentions a case observed in the Vosges, France. Geoff. St. Hilaire (Hist. Nat. Gén. des
+reg. org., vol. iii. p. 163) was the first to mention, I believe, that in different parts of
+South America the ram is more usually crossed with the she-goat than the sheep with the he-goat.
+The well-known 'pellones' of Chile are produced by the second and third generation of such
+hybrids (Gay, 'Hist, de Chile,' vol. i. p. 466, Agriculture, 1862). Hybrids bred from goat
+and sheep are called 'chabin' in French, and 'cabruno' in Spanish. In Chile such hybrids are
+called 'carneros lanudos'; their breeding inter se appears to be not always successful, and
+often the original cross has to be recommenced to obtain the proportion of three-eighths of
+he-goat and five-eighths of sheep, or of three-eighths of ram and five-eighths of she-goat;
+such being the reputed best hybrids."
+
+With these numerous facts recorded by competent observers we can hardly doubt that races of
+hybrids between these very distinct species have been produced, and that such hybrids are fairly
+fertile inter se; and the analogous facts already given lead us to believe that whatever amount
+of infertility may at first exist could be eliminated by careful selection, if the crossed
+races were bred in large numbers and over a considerable area of country. This case is especially
+valuable, as showing how careful we should be in assuming the infertility of hybrids when experiments
+have been made with the progeny of a single pair, and have been continued only for one or two
+generations.
+
+Among insects one case only appears to have been recorded. The hybrids of two moths (Bombyx
+cynthia and B. arrindia) were proved in Paris, according to M. Quatrefages, to be fertile inter
+se for eight generations.
+
+Fertility of Hybrids among Plants.
+
+Among plants the cases of fertile hybrids are more numerous, owing, in part, to the large scale
+on which they are grown by gardeners and nurserymen, and to the greater facility with which
+experiments can be made. Darwin tells us that Kölreuter found ten cases in which two plants
+considered by botanists to be distinct species were quite fertile together, and he therefore
+ranked them all as varieties of each other. In some cases these were grown for six to ten successive
+generations, but after a time the fertility decreased, as we saw to be the case in animals,
+and presumably from the same cause, too close interbreeding.
+
+Dean Herbert, who carried on experiments with great care and skill for many years, found numerous
+cases of hybrids which were perfectly fertile inter se. Crinum capense, fertilised by three
+other species--C. pedunculatum, C. canaliculatum, or C. defixum--all very distinct from it,
+produced perfectly fertile hybrids; while other species less different in appearance were quite
+sterile with the same C. capense.
+

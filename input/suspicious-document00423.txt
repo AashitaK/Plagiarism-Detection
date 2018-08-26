@@ -1,0 +1,142 @@
+﻿Look at Fig. 4. If wires are arranged in a wooden frame, as shown, the point where the wires
+cross will be the center of gravity if the square formed by the wooden strips is solid. Every
+body, no matter what its shape, has a center of gravity. The center of gravity is really an
+imaginary point in a body, at the center of its mass. Oftentimes engineers are heard saying
+that the center of gravity of a certain object is too high or too low. Fig. 5 shows the center
+of gravity in a boat. If the center of gravity in a boat is too high (as illustrated in Fig.
+6) the boat is said to be topheavy and unsafe. When a boat is topheavy or its center of gravity
+is too high, the boat is liable to capsize. In fact, some very serious marine accidents have
+been caused by this fault.
+
+The center of gravity (or center of weight) in a boat should be as low as possible. A boat
+with a low center of gravity will be very stable in the water and difficult to capsize. This
+is true of model boats just as much as it is true of large boats. The model boat builder must
+keep the weight of his boat as near the bottom as possible. For instance, if a heavy cabin
+were built on a frail little hull, the boat would be very unstable and would probably capsize
+easily.
+
+CHAPTER II
+
+THE HULL
+
+MODEL boat-hulls are generally made by one of two methods. One method is that of cutting the
+hull from a solid piece of wood. The other method is commonly known as the "bread-and-butter"
+system. The hull is built up of planks laid on top one of another with marine glue spread between
+them. The last-mentioned method (which shall hereafter be called the built-up method) possesses
+many advantages over the first.
+
+Cutting a model boat-hull from a solid piece of wood is by no means a simple or easy task,
+especially for beginners. Of course, after several hulls have been produced in this fashion,
+the worker becomes practised in cutting them out.
+
+The construction of hulls on the built-up principle will be described first. For the sake of
+convenience, the drawings of the boat-hull shown in Figs. 7 and 8 will be followed out. Before
+going further it will be well to understand drawings of boat-hulls; that is, how to know the
+lines of a boat from a drawing. By the "lines" is meant its shape. Marine architects employ
+a regular method in drawing boat-hulls. Fig. 7 shows the side of a boat and half of the deck
+plan. It will be seen that this drawing does not tell much about the real shape of the boat,
+and if a hull were to be produced according to the shape given, the builder would have to use
+his own judgment as to the outline of the hull at different places. For convenience, the boat
+is divided into ten sections, represented by the lines 0 to 10. It will be seen that the shape
+of the hull at section 2 will be different from the shape of the hull at section 8. Again,
+section 0 will be much narrower than section 5.
+
+Now look at Fig. 8. Note the shape of the cross-section of the hull at the different sections.
+For instance, the line at section 1 in Fig. 8 represents the shape of the hull at section 1
+in Fig. 7. It must be remembered, however, that this is only half of the section, and that
+the line 1 in Fig. 8 would have to be duplicated by another line to show the true shape. The
+cross-section of the boat at section 0 is shown in Fig. 9. One half of the drawing in Fig.
+8 represents the forward half of the hull, and the other half represents the stern half of
+the hull. If the shape of the boat at section 10 is desired, the line 10 in Fig. 8 could be
+traced on a piece of tissue paper. The paper could then be folded in half and the line first
+made traced on the second half. This would then produce the section of the boat at point 10.
+Thus, by closely examining Fig. 8 the shape of the entire hull can be seen.
+
+If pieces of wire could be used to form the lines of the hull at the various sections, it would
+appear as shown in Fig. 10 when assembled.
+
+Notice that in Fig. 8 there is a load water-line, which the vessel sinks to when loaded, and
+the second and first load water-line, which the vessel sinks to when only partially loaded
+or when carrying no load aside from its regular necessary equipment. The keel line of the boat
+is the line that runs along the bottom from bow to stern. (The bow of the boat is the front
+and the stern the back.)
+
+Motor-boating and marine magazines often publish the lines of different boats, and if the young
+boat-builder understands how to read boat drawings he will be able to make a model of any boat
+that is so described.
+
+Directions will now be given regarding the method of producing a boat-hull similar to the lines
+shown in Figs. 7 and 8, by the built-up method of construction.
+
+First, it will be necessary to procure the lumber. Several clean white pine boards will be
+very suitable to work with, and will not require much skill in handling. Let us assume that
+the boat-hull is to measure 22 inches in length, with a depth of 4 inches. The beam, which
+is the width of the boat at its widest point, will be 5 inches. (It will be well to remember
+what the term "beam" means, since the term will be used constantly throughout the book.)
+
+On a piece of heavy wrapping-paper draw the deck plan full size, that is, 22 inches long by
+5 inches at its widest point. Next cut out along the pencil line with a pair of shears. Now
+lay the paper outline on a plank and mark out the pattern on the wood. Repeat this process
+with three more planks. When this is done, cut out the boards with a keyhole saw.
+
+After the boards are cut out mark them as shown in Fig. 11. The space marked out on the board
+must be sawed out in two of the boards, to form the inside of the hull, if the boat is to carry
+some form of power, such as a battery-motor, or steam-engine. After the lines are marked out,
+make a hole with a 3/4-inch bit, as shown in Fig. 12. Insert the point of the keyhole saw in
+one of these holes to start it and cut out the piece. Treat the second board in the same way.
+The third board must have a smaller portion cut out of the center, owing to the fact that this
+board is nearer the bottom of the hull, where the width of the boat is narrower. The width
+of the piece cut out in the third board should not be more than 2 inches.
+
+When this work is done, a very thin layer of glue is placed over the boards, and they are then
+laid one on top of another. The boards are then placed in a vise or clamp and allowed to remain
+there over night. In applying the glue, the builder should be careful not to put too much on
+the boards. Too much glue is worse than not enough. It should be merely a thin film.
+
+After the boards have been glued together the crude hull will appear, as shown in Fig. 13.
+
+At this point the hull sections from 0 to 10 must be marked off. By referring again to Fig.
+7 it will be seen that the sections 0 to 1 and 9 to 10 are not so far apart as the other sections.
+Section 0 is 1 inch from the bow of the boat and section 1 is 1 inch from section 0. Sections
+2, 3, 4, 5, 6, 7, and 8 are all 1 inch apart. Section 9 is 1 inch from 10 and 10 is 1 inch
+from the stern. Lines should be drawn across the deck to correspond with these sections, which
+can be measured off with a ruler. It will now be necessary to cut some templates, or forms,
+from cardboard to guide the builder in bringing the hull to shape. It will be an easy matter
+to make these templates by following Fig. 8. A template of section 9 is shown in Fig. 14. It
+will be necessary to make eleven templates, corresponding to the sections 0 to 10. The templates
+should be cut from heavy cardboard so they will hold their shapes.
+
+The hull of the boat is now placed in a vise and roughly brought to shape with a draw-knife.
+After it has been brought to shape by this means a spoke-shave is used. This little tool has
+an adjustable blade by means of which it is possible to regulate the cut. When the builder
+starts to use the spoke-shave he should also start to use his templates or forms, applying
+them sectionally to determine how much more wood he will have to remove to bring the hull to
+shape. For instance, when he is working in the vicinity of sections 5, 6, and 7 he will apply
+these forms at the proper points occasionally to determine when enough wood has been removed.
+This procedure is followed out the entire length of the boat, care being taken to see that
+both sides are the same and that too much wood is not removed, since there is no remedy for
+this mistake. The builder who proceeds carefully and is not in too great a hurry to finish
+the work need not make this mistake.
+
+Of course, it will not be possible to bring the hull to a perfect finish with a spoke-shave.
+This can be done, however, by the use of a coarse file and sandpaper. The coarse file is used
+to take the rough marks of the spoke-shave away, and the marks left by the file are in turn
+removed by the sandpaper. The sandpaper must be applied unsparingly and always with the grain.
+It will be necessary to use considerable "elbow grease" to obtain a good finish.
+
+Boat-hulls can also be hewn to shape from a solid block, but it will be understood that this
+method involves more work than the one just described. Of course, the procedure of bringing
+the hull to shape by the aid of the draw-knife, spoke-shave, and templates is the same, but
+the hollowing out of the inside of the hull will be a much more difficult job. However, with
+a couple of good sharp chisels and a gouge the work will not be so difficult as at first appears.
+The use of an auger and bit will greatly aid in the work. After the outside of the hull is
+brought to shape the wooden form is drilled with holes, as shown in Fig. 15. This will make
+it much easier to chip the wood away. After the major portion of the wood has been taken out
+with the chisel, the gouge is brought into use. The gouge should be used very carefully, since
+it will easily go through the entire hull if it is not handled properly. For the beginner it
+is not safe to make a hull less than 1/2 inch in thickness. Of course, it is not necessary
+to carefully finish the inside of the hull, since it is covered up with the deck and cabin.
+
+The solid hull has one advantage over the built-up hull. It is not affected by moisture and
+it is therefore not so liable to warp and lose its shape. It will also stand more rough usage.
+

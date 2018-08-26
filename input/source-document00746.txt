@@ -1,0 +1,553 @@
+﻿ You may now inquire, How critical is this "color
+test"? To answer this I fear I shall trench upon forbidden grounds, but I call to my help the
+words of one of our best American physicists, and I quote from a letter in which he says by
+combined calculation and experiment I have found the limiting error for white light to be 1/50000000
+of an inch, and for Na or sodium light about fifty times greater, or less than 1/800000 of
+an inch. Dr. Alfred Mayer estimated and demonstrated by actual experiment that the smallest
+black spot on a white ground visible to the naked eye is about 1/800 of an inch at the distance
+of normal vision, namely, 10 inches, and that a line, which of course has the element of extension,
+1/5000 of an inch in thickness could be seen. In our delicate "color test" we may decrease
+the diameter of our black spot a thousand times and still its perception is possible by the
+aid of our monochromatic light, and we may diminish our line ten thousand times, yet find it
+just perceivable on the border land of our test by white light. Do not presume I am so foolish
+as to even think that the human hand, directed by the human brain, can ever work the material
+at his command to such a high standard of exactness. No; from the very nature of the material
+we have to work with, we are forbidden even to hope for such an achievement; and could it be
+possible that, through some stroke of good fortune, we could attain this high ideal, it would
+be but for a moment, as from the very nature of our environment it would be but an ignis fatuus.
+There is, however, to the earnest mind a delight in having a high model of excellence, for
+as our model is so will our work approximate; and although we may go on approximating our ideal
+forever, we can never hope to reach that which has been set for us by the great Master Workman.
+
+       *       *       *       *       *
+
+[JOURNAL OF GAS LIGHTING.]
+
+PHOTOMETRICAL STANDARDS.
+
+In carrying out a series of photometrical experiments lately, I found that it was a matter
+of considerable difficulty to keep the flames of the standard candles always at their proper
+distance from the light to be measured, because the wick was continually changing its position
+(of course carrying the flame with it), and thus practically lengthening or shortening the
+scale of the photometer, according as the flame was carried nearer to or farther from the light
+at the other end of the scale. In order, therefore, to obtain a correct idea of the extent
+to which this variation of the position of the wick might influence the readings of the photometer
+scale, I took a continuous number of photographs of the flame of a candle while it was burning
+in a room quite free from draught; no other person being in it during the experiment except
+a photographer, who placed sensitive dry plates in a firmly fixed camera, and changed them
+after an exposure of 30 seconds. In doing this he was careful to keep close to the camera,
+and disturb the air of the room as little as possible. In front of the candle a plumb-line
+was suspended, and remained immovable over its center during the whole operation. The candle
+was allowed to get itself into a normal state of burning, and then the wick was aligned, as
+shown in the photographs Nos. 1 and 2, after which it was left to itself.
+
+With these photographs (represented in the cuts) I beg to hand you full-sized drawings of the
+scales of a 100 inch Evans and a 60 inch Letheby photometer, in order to give your readers
+an opportunity of estimating for themselves the effect which such variations from the true
+distance between the standard light and that to be measured, as shown in this series of photographs,
+must exercise on photometrical observations made by the aid of either of the instruments named.
+
+W. SUGG.
+
+       *       *       *       *       *
+
+BLEACHING OR DYEING-YARNS AND GOODS IN VACUO.
+
+Many attempts have been made to facilitate the penetration of textile fabrics by the dyeing
+and bleaching solutions, with which they require to be treated, by carrying out the treatment
+in vacuo, i.e., in such apparatus as shall allow of the air being withdrawn. The apparatus
+shown in the annexed engraving--Austrian Pat. Jan. 15, 1884--although not essentially different
+from those already in use, embodies, the Journal of the Society of Chemical Industry says,
+some important improvements in detail. It consists of a drum A, the sides of which are constructed
+of stout netting, carried on a vertical axis working through a stuffing-box, which is fitted
+in the bottom of the outer or containing vessel or keir B. The air can be exhausted from B
+by means of an air pump. A contains a central division P, also constructed of netting, into
+which is inserted the extremity of the tube R, after being twice bent at a right angle. P is
+also in direct connection with the efflux tube E, E and R serving to convey the dye or bleach
+solutions to and from the reservoir C. The combination of the rotary motion communicated to
+A, which contains the goods to be dyed or bleached, with the very thorough penetration and
+circulation of the liquids effected by means of the vacuum established in B, is found to be
+eminently favorable to the rapidity and evenness of the dye or bleach.
+
+       *       *       *       *       *
+
+ON THE MOULDING OF PORCELAIN.
+
+By CHAS. LAUTH.
+
+The operation of moulding presents numerous advantages over other methods of shaping porcelain,
+for by this process we avoid irregularities of form, twisting, and visible seams, and can manufacture
+thin pieces, as well as pieces of large dimensions, of a purity of form that it is impossible
+to obtain otherwise.
+
+The method of moulding small objects has been described with sufficient detail in technical
+works, but such is not the case with regard to large ones, and for this reason it will be of
+interest to quote some practical observations from a note that has been sent me by Mr. Constantine
+Renard, who, for several years, has had the superintendence of the moulding rooms of the Sevres
+works.
+
+The process of moulding consists in pouring porcelain paste, thinned with water, into very
+dry plaster moulds. This mixture gradually hardens against the porous sides with which it is
+in contact, and, when the thickness of the hardened layer is judged sufficient, the mould is
+emptied by inverting it. The excess of the liquid paste is thus eliminated, while the thicker
+parts remain adherent to the plaster. Shortly afterward, the absorption of the water continuing,
+the paste so shrinks in drying as to allow the object to detach itself from the mould. As may
+be seen, nothing is simpler when it concerns pieces of small dimensions; but the same is not
+the case when we have to mould a large one. In this case we cannot get rid of the liquid paste
+by turning the mould upside down, because of the latter's size, and, on another hand, it is
+necessary to take special precautions against the subsidence of the paste. Recourse is therefore
+had to another method. In the first place, an aperture is formed in the lower part of the mould
+through which the liquid may flow at the desired moment. Afterward, in order to prevent the
+solidified but still slightly soft paste from settling under its own weight at this moment,
+it is supported by directing a current of compressed air into the mould, or, through atmospheric
+pressure, by forming a vacuum in the metallic jacket in which the mould is inclosed.
+
+The history and description of these processes have been several times given, and I shall therefore
+not dwell upon them, but shall at once proceed to make known the new points that Mr. Renard
+has communicated to me.
+
+The first point to which it is well to direct the manufacturer's attention is the preparation
+of the plaster moulds. When it concerns an object of large dimensions, of a vase a yard in
+height, for example, the moulder is obliged to cut the form or core horizontally into three
+parts, each of which is moulded separately. To this effect, it is placed upon a core frame
+and surrounded with a cylinder of sheet zinc. The workman pours the plaster into the space
+between the latter and the core, and, while doing so, must stir the mass very rapidly with
+a stick, so that at the moment the plaster sets, it shall be as homogeneous as possible. In
+spite of such precautions, it is impossible to prevent the densest parts of the plaster from
+depositing first, through the action of gravity. These will naturally precipitate upon the
+table or upon the slanting sides of the core, and the mould will therefore present great inequalities
+as regards porosity. Since this defect exists in each of the pieces that have been prepared
+in succession, it will be seen that when they come to be superposed for the moulding of the
+piece, the mould as a whole will be formed of zones of different porosities, which will absorb
+water from the paste unequally. Farther along we shall see the inconveniences that result from
+this, and the manner of avoiding them.
+
+The mould, when finished, is dried in a stove. Under such circumstances it often happens that
+there forms upon the surface of the plaster a hard crust which, although it is of no importance
+as regards the outside of the mould, is prejudicial to the interior because it considerably
+diminishes its absorbing power. This trouble may be avoided by coating the surfaces that it
+is necessary to preserve with clear liquid paste; but Mr. Renard advises that the mould be
+closed hermetically, so that the interior shall be kept from contact with warm air. In this
+way it is possible to prevent the plaster from hardening, as a result of too quick a desiccation.
+I now come to the operation of moulding. In the very first place, it is necessary to examine
+whether it is well to adopt the arrangement by pressure of air or by vacuum. The form of the
+objects will determine the choice. A very open piece, like a bowl, must be moulded by vacuum,
+on account of the difficulty of holding the closing disk in place if it be of very large dimensions.
+The same is the case with large vases of wood form. On the contrary, an elongated piece tapering
+from above is more easily moulded by pressure of the air, as are also ovoid vessels 16 to 20
+inches in height. In any case it must not be forgotten that the operation by vacuum should
+be preferred every time the form of the objects is adapted to it, because this process permits
+of following and directing the drying, while with pressure it is impossible to see anything
+when once the apparatus is closed.
+
+Moulding by Pressure of the Air.--The plaster mould having been put in place upon the mould
+board, and the liquid paste having been long and thoroughly stirred in order to make it homogeneous,
+and get rid of the air bubbles, we open the cock that puts the paste reservoir in communication
+with the lower part of the mould, care having been taken beforehand to pour a few pints of
+water into the bottom of the mould. The paste in ascending pushes this water ahead of it, and
+this slightly wets the plaster and makes the paste rise regularly. When the mould is entirely
+filled, the paste is still allowed to flow until it slightly exceeds the upper level, and,
+spreading out over the entire thickness of the plaster, forms a sort of thick flange. The absorption
+of the liquid begins almost immediately, and, consequently, the level lowers. A new quantity
+of paste is introduced, and we continue thus, in regulating its flow so as to keep the mould
+always full. This operation is prolonged until the layer is judged to be sufficiently thick,
+this depending upon the dimensions, form, or construction of the vessel. The operation may
+take from one to five hours.
+
+The desired thickness having been obtained, it becomes a question of allowing the paste to
+descend and at the same time to support the piece by air pressure. The flange spoken of above
+is quickly cut, and the paste is made to rise again for the last time, in order to form a new
+flange, but one that this time will be extremely thin; then a perforated disk designed for
+forming the top joint, and acting as a conduit for the air, is placed upon the mould. This
+disk is fastened down with a screw press, and when the apparatus is thus arranged the eduction
+cock is opened, and the air pump maneuvered.
+
+If the flange did not exist, the air would enter between the mould and the piece at the first
+strokes of the piston, and the piece would be inevitably broken. Its object, then, is to form
+a hermetical joint, although it must at the same time present but a slight resistance, since,
+as soon as the liquid paste has flowed out, the piece begins to shrink, and it is necessary
+that at the first movement downward it shall be able to disengage itself, since it would otherwise
+crack.
+
+As soon as the piece begins to detach itself from the mould the air enters the apparatus, and
+the pressure gauge connected with the air pump begins to lower. It is then necessary, without
+a moment's loss of time, to remove the screw press, the disk, and the upper part of the mould
+itself, in order to facilitate as much as possible the contraction of the piece. Finally, an
+hour or an hour and a half later, it is necessary to remove the lower part of the mould, this
+being done in supporting the entire affair by the middle. The piece and what remains of the
+mould are, in reality, suspended in the air. All these preparations are designed to prevent
+cracking.
+
+Moulding by Vacuum.--The operation by vacuum follows the same phases as those just described.
+It is well, in order to have a very even surface, not to form a vacuum until about three hours
+after the paste has been made to ascend. Without such a precaution the imperfections in the
+mould will be shown on the surface of the object by undulations that are irremediable.
+
+The first flange or vein must be preserved, and it is cut off at the moment the piece is detached.
+
+Moulding by vacuum, aside from the advantages noted above, permits of giving the pieces a greater
+thickness than is obtained in the pressure process. According to Mr. Renard, when it is desired
+to exceed one inch at the base of the piece (the maximum thickness usually obtained), the operation
+is as follows: The piece is moulded normally, and it is supported by a vacuum; but, at the
+moment at which, under ordinary circumstances, it would be detached, the paste is made to ascend
+a second time, when the first layer (already thick and dry) acts as a sort of supplementary
+mould, and permits of increasing the thickness by about 2/5 of an inch. The piece is held,
+as at first, by vacuum, and the paste is introduced again until the desired thickness is obtained.
+
+Whatever be the care taken, accidents are frequent in both processes. They are due, in general,
+to the irregular contraction of the pieces, caused by a want of homogeneousness in the plaster
+of the moulds. In fact, as the absorption of the water does not proceed regularly over the
+entire surface of the piece, zones of dry paste are found in contact with others that are still
+soft, and hence the formation of folds, and finally the cracking and breaking of the piece.
+The joints of the moulds are also a cause of frequent loss, on account of the marks that they
+leave, and that injure the beauty of the form as well as the purity of the profile.
+
+Mr. Renard has devised a remedy for all such inconveniences. He takes unglazed muslin, cuts
+it into strips, and, before beginning operations, fixes it with a little liquid paste to the
+interior of the mould. This light fabric in no wise prevents the absorption of the water, and
+so the operation goes on as usual; but, at the moment of contraction, the piece of porcelain
+being, so to speak, supported by the muslin, comes put of the mould more easily and with extreme
+regularity. Under such circumstances all trace of the joint disappears, the imperfections in
+the mould are unattended with danger, and the largest pieces are moulded with entire safety.
+In a word, we have here a very important improvement in the process of moulding. The use of
+muslin is to be recommended, not only in the manufacture of vases, but also in the difficult
+preparation of large porcelain plates. It is likewise advantageous in the moulding of certain
+pieces of sculpture that are not very delicate, and, finally, it is very useful when we have
+to do with a damaged mould, which, instead of being repaired with plaster, can be fixed with
+well ground wet sand covered with a strip of muslin.
+
+Drying of the Moulded Pieces.--When the moulded pieces become of a proper consistency in the
+mould, they are exposed to the air and then taken to the drying room. But, as with plaster,
+the surface of the paste dries very quickly, and this inconvenience (which amounts to nothing
+in pieces that are to be polished) is very great in pieces that carry ornaments in relief,
+since the finishing of these is much more difficult, the hardened paste works badly, and frequently
+flakes off. In order to remedy this inconvenience, it suffices to dust the places to be preserved
+with powdered dry paste.--Revue Industrielle.
+
+       *       *       *       *       *
+
+PHOTO-TRICYCLE APPARATUS.
+
+This consists of a portable folding camera, with screw focusing arrangement, swing back, and
+an adapter frame placed in the position of the focus screen, allowing the dark slide to be
+inserted so as to give the horizontal or vertical position to the dry plate when in the camera.
+To the front and base-board a brass swiveled side bar, made collapsible by means of a center
+slot, is attached by hinges, and this renders the camera rigid when open or secure when closed.
+The base-board is supported on a brass plate within which is inserted a ball-and-socket (or
+universal joint in a new form), permitting the camera to be tilted to any necessary angle,
+and fixed in such position at will. The whole apparatus is mounted upon a brass telescopic
+draw-stand, which, by means of clamps, is attached to the steering handle or other convenient
+part of the tricycle, preferably the form made by Messrs. Rudge & Co., of Coventry, represented
+in the cut.--Photo. News.
+
+       *       *       *       *       *
+
+A PHOTO PRINTING LIGHT.
+
+A printing frame is placed in the carrier, and exposed to the light of a gas burner kept at
+a fixed distance, behind which is a spherical reflector. The same frame may be used for other
+purposes.-Photographic News.
+
+       *       *       *       *       *
+
+A NEW ACTINOMETER.
+
+A selenium actinometer has been described in the Comptes Rendus in a communication from M.
+Morize, of Rio de Janeiro. The instrument is used to measure the actinic power of sunlight
+when the sun is at various altitudes; but the same principle is applicable to other light sources.
+The sensitive part of the apparatus consists of a cylinder formed of 38 disks of copper, isolated
+from each other by as many disks of mica. The latter being of smaller diameter than the copper
+disks, the annular spaces between the two are filled with selenium, by the simple process of
+rubbing a stick of this substance over the edges, and afterward gently warming. The selenium
+then presents a grayish appearance, and is ready for use. Connection is made by conductors,
+on opposite sides, with the odd and even numbers of the disks, which diminishes the resistance
+of the selenium. The cylinder thus formed is insulated by glass supports in the inside of a
+vacuum tube, for the purpose of preserving it from the disturbing influence of dark rays. The
+whole is placed upon a stand, and shielded from reflected light, but fully exposed to that
+which is to be measured for actinic intensity. If now a constant current of electricity is
+passed through the apparatus, as indicated by a galvanometer, the variations of the latter
+will show the effect produced upon the selenium. A scale must be prepared, with the zero point
+at the greatest possible resistance of the selenium, which corresponds with absolute darkness.
+The greatest effect of the light would be to annul the resistance of the selenium. Consequently,
+the cylinder must be withdrawn from the circuit to represent this effect; and the maximum deviation
+of the galvanometer is then to be observed, and marked 100. By dividing the range of the galvanometer
+thus obtained into 100 equal parts, the requisite actinometric scale will be established. In
+practice, the Clamond battery is used to supply the constant current required.
+
+       *       *       *       *       *
+
+ASTRONOMICAL PHOTOGRAPHY.
+
+During the last few years, or rather decades of years, it has become rather a trite saying
+that to advance far in any branch of physical research a fair proficiency in no inconsiderable
+number of the sister sciences is an absolute necessity. But if this is true in general, none,
+I think, will question the assertion that a proficient in any of the physical sciences must
+be fairly conversant with photography as a science, or at least as an art. If we take for example
+a science which has of late years made rapid strides both in Europe and America, the science
+of astronomy, we shall not have far to go to find convincing proof that a great portion of
+the best work that is being done by its votaries is effected by the aid of photography. One
+eminent astronomer has quite lately gone so far as to declare that we no longer require observers
+of the heavens, but that their place can be better supplied by the gelatine plate of the photographer;
+and his words have been echoed by others not less able than himself. "Abolish the observer,
+and substitute the sensitive plate," is a sensational form of expressing the revolution in
+observational astronomy that is taking place under our eyes; but, although it suggests a vast
+amount of truth, it might leave upon the mind an exaggerated impression inimical to the best
+interests of science.
+
+The award of the highest distinction in astronomy, the gold medal of the Royal Astronomical
+Society, two years in succession, to those who have been most successful in celestial photography
+is no doubtful sign of the great value attached to such work. Last year it was Mr. Common who
+received the highest testimony of the merit due to his splendid photographs of the nebula of
+Orion; and this year Dr. Huggins, who has drawn much attention to celestial photography, by
+his successful attempts to picture the solar corona in full daylight, has received a similar
+acknowledgment of his labors in photographing the spectra of stars and comets and nebulæ.
+
+An adequate idea of the progress astronomy is now making by aid of photography can only be
+formed by a comprehensive view of all that is being at present attempted; but a rapid glance
+at some of the work may prepare the way for a more thorough investigation. A few years since,
+the astronomers who had advanced their science by aid of photography were few in number, and
+their results are soon enumerated. Some good pictures of the solar corona taken during solar
+eclipses, a series or two of sun-spot photographs, and a very limited number of successful
+attempts made upon the moon, and planets, and star clusters, were all the fruits of their labors.
+But now each month we learn of some new and efficient laborer in this field, which gives promise
+of so rich a harvest.
+
+Each day the sun is photographed at Greenwich, at South Kensington, in India, and at the Physical
+Observatory of Potsdam, and thus a sure record is obtained of all the spots upon its surface,
+which may serve for the study of the periodicity of its changes, and for their probable connection
+with the important phenomena of terrestrial magnetism and meteorology. In France the splendid
+sun-pictures obtained by Dr. Janssen at the Physical Observatory of Meudon have thrown into
+the shade all other attempts at a photographic study of the most delicate features of the solar
+surface.
+
+Dr. Huggins has shown that it is possible to obtain a daily photographic record of the solar
+prominences, and only lately he has secured results that justified a special expedition to
+the Alps to photograph the sun's corona, and he has now moved the Admiralty to grant a subsidy
+to Dr. Gill, the government astronomer at the Cape, by aid of which Mr. Woods can carry on
+the experiments that were so encouraging last summer in Switzerland.
+
+We may, then, reasonably hope to obtain before long a daily picture of the sun and a photographic
+record of its prominences, and even of a certain portion of the solar corona; but the precious
+moments of each solar eclipse will always be invaluable for picturing those wondrous details
+in the corona that are now shown us by photography, and which can be obtained by photography alone.
+
+Again, how very much is to be learnt in solar physics from the marvelous photographs of the
+sun's spectrum exhibited last summer by Professor Rowland; photographs that show as many as
+one hundred and fifty lines between H and K, and which he is still laboring to improve! The
+extension, too, of the visible solar spectrum into the ultra-violet by Corun, Mascart, and
+others, adds much to our knowledge of the sun; while the photographs of Abney in the ultrared
+increase our information in a direction less expected and certainly less easy of attainment.
+Both these extensions we find most ably utilized in the recent discussion of the very interesting
+photographs of the spectra of the prominences and of the corona taken during the total eclipse
+of May 18, 1882; and the photographic results of this eclipse afford ample proof that we can
+not only obtain pictures of the corona by photography that it would be impossible otherwise
+to procure, but also that in a few seconds information concerning the nature of the solar atmosphere
+may be furnished by photography that it would otherwise take centuries to accumulate, even
+under the most favorable circumstances.
+
+The advantages to be gained by accurate photographs of the moon and planets, that will permit
+great enlargements, are too obvious to call for lengthened notice in such a rapid sketch as
+the present; for it is principally in the observation of details that the eye cannot grasp
+with the required delicacy, or with sufficient rapidity, that photography is so essential for
+rapid and sure progress.
+
+Like the sketches of a solar eclipse, the drawings that are made of comets, and still more
+of nebulæ, even by the most accomplished artists, are all, to say the least, open to doubt
+in their delicate details. And the truth of this is so obvious, that it is the expressed opinion
+of an able astronomer that a single photograph of the nebula of Orion, taken by Mr. Common,
+would be of more value to posterity than the collective drawings of this interesting object
+so carefully made by Rosse, Bond, Secchi, and so many others.
+
+Another most important branch of astronomy, that is receiving very great attention at present,
+is the mapping of the starry heavens; and herein photography will perhaps do its best work
+for the astronomer. The trial star map by the brothers Henry, of a portion of the Milky Way,
+which they felt unable to observe satisfactorily by the ordinary methods, is so near absolute
+perfection that it alone proves the immense superiority of the photographic method in the formation
+of star maps. Fortunately this subject, which is as vast as it is fundamental, is being taken
+up vigorously. The Henries are producing a special lens for the work; Mr. Grubb is constructing
+a special Cassgrain reflector for Mr. Roberts of Maghull; and the Admiralty have instructed
+Mr. Woods to make this part of his work at the Cape Observatory, under the able direction of
+Dr. Gill. Besides star maps, clusters, too, and special portions of the heavens are being photographed
+by the Rev. T.E. Espin, of West Kirby; and such pictures will be of the greatest value, not
+only in fixing the position at a given date, but also aiding in the determination of magnitude,
+color, variability, proper motion, and even of the orbits of double and multiple stars, and
+the possible discovery of new planets and telescopic comets.
+
+Such are some of the many branches of astronomy that are receiving the most valuable aid at
+present from photography; but the very value of the gift that is bestowed should make exaggeration
+an impossibility. Photography can well afford to be generous, but it must first be just, in
+its estimate of the work that has still to be done in astronomy independently of its aid; and
+although the older science points with just pride to what is being done for her by her younger
+sister, still she must not forget that now, as in the future, she must depend largely for her
+progress, not only on the skill of the photographer and the mathematician, but also on the
+trained eye and ear and hand of her own indefatigable observers.--S.J. Perry, S.J., F.R.S.,
+in Br. Jour. of Photography.
+
+       *       *       *       *       *
+
+ELECTRICITY AS A PREVENTIVE OF SCALE IN BOILERS.
+
+The mineral sediment that generally sticks to the sides of steam boilers, and the presence
+of which is fraught with the utmost danger, resulting in many instances in great injury to
+life and property, besides eating away the substance of the iron plate, was referred to in
+a paper lately read by M. Jeannolle before the Paris Academy of Sciences, in which the author
+described a new method for keeping boilers clean. This method is as follows:
+
+The inside of a steam boiler is placed, by means of piles of a certain power, in reciprocal
+communication, the current passing at one end through positive, and at the other through negative,
+wires. In incrusted steam boilers, at a temperature ranging from 212° to 300° Fahr., and a
+pressure of from 30 to 90 lb. to the square inch, the current thus engendered decomposes the
+accumulated salts, and precipitates them, from which they may easily be removed, either by
+means of a special siphon or by means of some other mechanical process. When boilers are free
+from fur, and where it is intended to keep them free from such, a continuous current may be
+set up, by means of which the sedimentary salts may be decomposed, and a precipitate produced
+in a pulverized form, which can be removed with equal facility.
+
+From a series of minute experiments made by M. Jeannolle, it appears that in order to render
+the various actions of electricity, perfect, it is necessary to coat either with red lead or
+with pulverized iron, or with any other conductor of electricity, an operation which must be
+repeated whenever the boiler is emptied with a view to cleaning out. The above system Is being
+advantageously applied in Calais for removing the incrustations of boilers. The two poles of
+a battery of ten to twelve Bunsen elements are applied to the ends of the boilers, and after
+thirty to forty hours the deposits fall from the sides to the bottom. When a boiler has been
+thus cleared, the formation of new deposits may be prevented by applying a much less energetic
+current under the same conditions.
+
+       *       *       *       *       *
+
+ALPHABET DESIGNED BY GODFREY SYKES.
+
+Among the many designs which have been issued by the South Kensington Museum authorities is
+the alphabet which we have illustrated here to-day. The letters appear frequently among the
+decorations of the museum buildings, especially in the refreshment rooms and the Ceramic gallery,
+where long inscriptions in glazed terra cotta form ornamental friezes. The alphabet has also
+been engraved to several sizes, and is used for the initial letters in the various official
+books and art publications relating to the museum, which are published by the Science and Art
+Department.--Building News.
+
+       *       *       *       *       *
+
+OLD WROUGHT IRON GATE.
+
+This gate forms the entrance to Scraptoft Hall, a building of the eighteenth century, now the
+seat of Captain Barclay, and which stands at about five miles from Leicester, England.--The
+Architect.
+
+       *       *       *       *       *
+
+BRIEF SANITARY MATTERS IN CONNECTION WITH ISOLATED COUNTRY HOUSES.[4]
+
+[Footnote 4: Read before the Boston Society of Civil Engineers, April 1884 Journal A. of E.
+Societies.]
+
+By E.W. BOWDITCH, C.E.
+
+I am unable to tell you what is generally considered the best practice, for I am not sure there
+are any definitely established rules; therefore I can only explain my ways of doing such work,
+which, though I try to make as complete and at the same time as simple as possible, I know
+to be far from perfect.
+
+Plumbing and drainage work has grown up unconsciously with my landscape gardening, and not
+finding any texts or practice that seemed wholly satisfactory, I have been forced to devise
+new arrangements from time to time, according to the requirements of the case in hand.
+
+To give all the details of house plumbing this evening, or any one evening, would be impossible,
+for lack of time, and not worth while even if there was time, as much of it would prove matter
+of little or no interest. I will confine my remarks, therefore, to certain elements of the
+work where my practice differs, I believe, essentially from that of most engineers, and where
+perhaps my experience, if of no assistance to other members of the Society, may excite their
+friendly criticism in such a way as to help me.
+
+There are two kinds of country places that I am liable to be called upon to prescribe for:
+
+First. A new place where nothing has been arranged.
+
+Second. An old place where the occupants have been troubled either by their outside arrangements
+or by fixtures or pipes within.
+
+Under the first head let us suppose a small tract of perhaps two acres of land in some inland
+town, where the family intends to live but six months in the year, though they are liable to
+reside there the whole twelve.
+
+There are no sewers and no public water. The soil is a stiff, retentive clay, rather wet in
+spring. The desire is expressed to have plumbing and drainage that shall be as inexpensive
+as possible, but that shall be entirely safe.
+
+In considering the arrangements inside the house, I find myself in the same predicament as
+the French surgeon, a specialist upon setting the bones of the arm, who, when a patient was
+brought him with his right arm broke, expressed his sorrow at being unable to be of assistance,
+as his specialty was the left arm.
+
+I have endeavored to post myself thoroughly upon house plumbing, but confess to only knowing
+partially about the wastes; the supplies I do not feel competent to pass upon.
+
+One class of annoyance caused by plumbing, perhaps the principal one, is due to the soil pipe
+or some of its fittings.
+
+Second quality of iron, poor hanging, insufficient calking, careless mechanics, putty, cement,
+rag, or paper joints--all these and a dozen other things are liable to be sources of trouble.
+Subordinate wastes are apt to be annoying, occasionally, too, to a less extent.
+
+The mechanical work can always be superintended, and within certain limits may be made secure
+and tight; not so easy, however, with the materials.
+
+There is seldom a valid excuse for ever making waste pipes, within a building, of anything
+but metal.
+
+Earthen tile is frequently used; also, to a limited extent, brick, stone, and wood; twice I
+have found canvas--all these, however, are inferior, and should never be accepted or specified.
+The writer believes that at the present time, hereabouts, lead and iron are more used for wastes
+than any other materials, and are found the most satisfactory on the whole.
+
+One or two arrangements, relative to the wastes, I have made use of that are not, so far as
+known, in general use, and that may not be the best, though they have served me many good turns,
+and I have not succeeded in devising any better.
+
+Soil pipe, as it is usually put in, is apt to be of cast iron, four inches in diameter, and
+is known in the market as "heavy" or "extra heavy." For some years the tar-coated or black
+enameled pipe has been the favorite, as being the more reliable, the writer in common with
+others making use of the same freely, until one day a cracked elbow, tar coated, was detected.
+Since that time plain, untarred pipe has been specified, and subjected to the so-called kerosene
+test, which consists of swabbing out each pipe with kerosene or oil and then allowing it to
+stand for a few hours. A moment's thought will convince any one that when a pipe is asphalted
+or tar coated it is very difficult to detect either sand holes or small cracks, and the difficulty
+of proper calking is increased, as lead does not cling so well to the tar as to plain iron.
+
+At present, the kerosene test, so far as the writer is concerned, is a misnomer, because raw
+linseed oil is used exclusively as giving more satisfactory results, and being less troublesome
+to apply.
+
+I have here a length of the ordinary "heavy 4" commercial soil pipe, plain, and selected at
+random. Yesterday noon I had it oiled at my office, in order to be ready for to-night, and
+you see, by the chalk marks I have made, just where the leaks were and their area. I may say
+here that a sound pipe of this caliber and standard weight is the exception rather than the
+rule, and it was selected for this experiment merely to try and show the reaction a little
+better than the heavier pipe might.
+
+Experiments of this nature I have carried along for the past two years, and I am glad to say
+that, since I began, the quality of the soil pipe furnished by the dealers for my work seems
+appreciably better than at first. Whether the poorer pipe is still made and sold to other customers
+I have no means of knowing; probably it is, however.
+
+A large quantity of the pipe is now being tested at my suggestion by the Superintendent of
+Construction of the Johns Hopkins Hospital, at Baltimore. I have not yet heard the results
+from him, but doubtless they will be interesting. A brief summary of the results may be of
+some interest.
+
+The different makers of soil pipe generally used by plumbers hereabouts are:
+
+Mott & Company, Abendroth, Blakslee, Dighton, Phillips & Weeden, and Bartlett, Hayward & Co.
+
+On 4" extra heavy pipe my results have been as follows:
+
+Percentage passed as good, single hub.  60 per ct. to 70 per ct.
+Percentage passed as good, double.      20 per ct. to 80 per ct.
+Percentage passed special castings,
+   including Y's and T's.               60 per ct.
+
+5" pipe extra heavy:
+
+Percentage passed as good, single hub.  25 per ct. to 35 per ct. Percentage passed as good,
+double.      No record. Percentage special castings, including Y's and T's.               
+60 per ct.
+

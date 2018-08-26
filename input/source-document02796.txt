@@ -1,0 +1,185 @@
+﻿Where failures have occurred in submarine telegraphs, the causes are now well understood and
+easily to be avoided. Thus with the first Atlantic cable, its defects have all been carefully
+investigated by scientific men, and may be easily guarded against. When this cable was in process
+of manufacture in the factory of Messrs. Glass, Elliot, & Co., in Greenwich, near London, it
+was coiled in four large vats, and there left exposed, day after day, to the heat of a summer
+sun, which was intensified by the tarred coating of the cable to one hundred and twenty degrees.
+This went on, day after day, with the knowledge of the engineer and electrician of the company,
+although the directors had given explicit orders that sheds should be erected over the vats
+to prevent the possibility of such an occurrence. As might have been foreseen, the gutta-percha
+was melted, so that the conductor which it was desired to insulate was so twisted by the coils
+that it was left quite bare in numberless places, thus weakening, and eventually, when the
+cable was submerged, destroying the insulation. The injury was partially discovered before
+the cable was taken out of the factory at Greenwich, and a length of about thirty miles was
+cut out and condemned. This, however, did not wholly remedy the difficulty, for the defective
+insulation became frequently and painfully apparent while the cable was being submerged. Still
+further evidence of its imperfect condition was afforded when it came to be cut up for charms
+and trinkets.
+
+The first cable was, to a great extent, an experiment,--a leap in the dark. Its material and
+construction were as good as the state of knowledge at that time provided, and in many respects
+not unsuitable; but the company could not avail itself, at that time, of the instruments or
+apparatus for testing its conducting power and insulation, in the manner since pointed out
+by experience. The effects of temperature, as we have seen, were not provided for. The vast
+differences in the conducting power of copper were discovered only by means of that cable,
+when made. The mathematical law whereby the proportions of insulation to conduction are determined
+had not been fully investigated; and it was even argued by some of the pretended electricians
+in the employ of the company, that, the smaller the conductor, the more rapidly the current
+could pass through it. No mode of protecting the external sheath from oxidation had then been
+discovered; and the kind of machinery necessary for submerging cables in deep water could only
+be theoretically assumed.
+
+Looking back to that period, and granting that there was too much haste in the preparations,
+and that other mistakes were committed which could now be foreseen and avoided, it is not too
+much to say, that, if that cable could be laid and worked, as was done, after one failure in
+1857, and the consequent uncoiling and storage of it in an exposed situation, and after three
+attempts in 1858, under the most fearful circumstances as to weather, it would be an easy task
+to lay a cable constructed and submerged by the light of present experience.
+
+The above cuts, representing sections of the cable laid in 1858 and the proposed new cable,
+will serve to show the difference between the two, and the immense superiority of the latter
+over the former. In the old Atlantic cable the copper conducting-wire weighed but ninety-three
+pounds to the mile, while in the new cable it weighs five hundred and ten pounds to the mile,
+or more than five times as much. Now the size, or diameter, of a telegraphic conductor is just
+as important an item, in determining the strength of current which can be maintained upon it
+with a given amount of battery-force, as the length of the conductor. To produce the effects
+by which the messages are expressed at the end of a telegraphic wire or cable, it is necessary
+that the electric current should have a certain intensity or strength. Now the intensity of
+the current transmitted by a given voltaic battery along a given line of wire will decrease,
+other things being the same, in the same proportion as the length of the wire increases. Thus,
+if the wire be continued for ten miles, the current will have twice the intensity which it
+would have, if the wire had been extended to a distance of twenty miles. It is evident, therefore,
+that the wire may be continued to such a length that the current will no longer have sufficient
+intensity to produce at the station to which the despatch is transmitted those effects by which
+the language of the despatch is signified. But the intensity of the current transmitted by
+a given voltaic battery upon a wire of given length will be increased in the same proportion
+as the area of the section of the wire is augmented. Thus, if the diameter of the wire be doubled,
+the area of its section being increased in a fourfold proportion, the intensity of the current
+transmitted along the wire will be increased in the same ratio. The intensity of the current
+may also be augmented by increasing the number of pairs of the generating plates or cylinders
+composing the galvanic battery.
+
+All electrical terms are arbitrary, and necessarily unintelligible to the general reader. I
+shall, therefore, use them as sparingly as possible, and endeavor to make myself clearly understood
+by explaining those which I do use.
+
+All telegraphic conductors offer a certain resistance to the passage of an electric current,
+and the amount of this resistance is proportional to the length of the conductor, and inversely
+to its size. In order to overcome this resistance, it is necessary to increase the number of
+the cells in the battery, and thus obtain a fluid of greater force or intensity.
+
+On aërial telegraph-lines this increase in the intensity of the battery occasions no particular
+inconvenience, other than by tending to the more rapid destruction of the small copper coils,
+or helices, employed; but upon submarine lines it has the effect of increasing the static electricity,
+or electricity of tension, which accumulates along the surface of the gutta-percha covering
+of the conducting-wire, in the same manner as static electricity accumulates on the surface
+of glass, or of a stick of sealing-wax, by rubbing it with a piece of cloth. The use of submarine
+or of subterranean conductors occasions, from the above cause, a small retardation in the velocity
+of the transmitted electricity. This retardation is not due to the length of the path which
+the electric current has to traverse, since it does not take place with a conductor, equally
+long, insulated in the air; but it arises from a static reaction, caused by the passage of
+an intense current through a conductor well insulated, but surrounded outside its insulating
+coating by a conducting body, such as sea-water or moist ground, or even by the metallic envelope
+of iron wires placed in communication with the ground. When this conductor is presented to
+one of the poles of a battery, the other pole of which communicates with the ground, it becomes
+charged with static electricity, like the coating of a Leyden-jar,--electricity which is capable
+of giving rise to a discharge-current, even after the voltaic current has ceased to be transmitted.
+Volta showed in one of his beautiful experiments, that, in putting one of the ends of his pile
+in communication with the earth, and the other with a non-insulated Leyden-jar, the jar was
+charged in an instant of time to a degree proportional to the force of the pile. At the same
+time an instantaneous current was observed in the conductor between the pile and the jar, which
+had all the properties of an ordinary current. Now it is evident that the subaqueous wire with
+its insulating covering may be assimilated exactly to an immense Leyden-jar. The glass of the
+jar represents the gutta-percha; the internal coating is the surface of the copper wire; the
+external coating is the surrounding metallic envelope and water. To form an idea of the capacity
+of this new kind of battery, we have only to remember that the surface of the wire is equal
+to fourteen square yards per mile. Bringing such a wire into communication by one of its ends
+with a battery, of which the opposite pole is in contact with the earth, whilst the other extremity
+of the wire is insulated, must cause the wire to take a charge of the same character and tension
+as that of the pole of the battery touched by it.
+
+These currents of static induction are proportional in intensity to the force of the battery
+and the length of the wire, whilst an inverse relation is true as regards the length of the
+conductor with the ordinary voltaic current.
+
+Professor Wheatstone proved, by actual experiment, that a continuous current may be maintained
+in the circuit of the long wire of an electric cable, of which one of the ends is insulated,
+whilst the other communicates with one of the poles of a battery, whose other pole is connected
+with the ground. This current he considers due to the uniform and continual dispersion of the
+statical electricity with which the wire is charged along its whole length.
+
+It was mainly owing to the retardation from this cause that communication through the Atlantic
+cable was so exceedingly slow and difficult.
+
+I will now endeavor to show why the new cable will not be liable to this difficulty, to anything
+like the same extent.
+
+I have alluded to the resistance offered by the conductor of a telegraph-cable to the passage
+of an electric current, and to the retardation of this current by static induction. The terms
+retardation and resistance are not considered technically synonymous, but are intended, as
+electrical terms, to designate two very different forces. The resistance of a wire, as we have
+seen above, is proportional to its length, and inversely to its diameter. It is overcome by
+increasing the number of cells in the battery, or, in other words, by increasing the intensity
+or force of the current. The retardation in a telegraphic cable, on the contrary, is proportional
+to the length of the conducting-wire and the intensity of the battery. In the former case,
+by increasing the electrical force you overcome the resistance; while in the latter, by augmenting
+the electrical force you increase the retardation.
+
+From the foregoing law it will be seen that there are two ways of lessening the resistance
+upon telegraphic conductors,--one by reducing the length, and the other by increasing the area
+of the section of the conducting-wire. If, then, by comparison, we estimate the resistance
+in the old Atlantic cable to have been equal to two thousand miles of ordinary telegraph-wire,
+the increased size of the conducting-wire of the new cable reduces the resistance to one-fifth
+that distance, or four hundred miles. And while it required two hundred cells of battery to
+produce intensity sufficient to work over the two thousand miles of resistance in the old cable,
+it will require but one-fifth as much, or forty cells, to overcome the four hundred miles of
+resistance in the new cable. The retardation which resulted from the intense current generated
+by two hundred cells will be also proportionately reduced in the comparatively small battery
+of forty cells. Thus we perceive, that, while the length of the cable is, electrically and
+practically, reduced to one-fifth of its former length, the retardation of the current is also
+decreased in the same proportion. Therefore, if, with the old cable, three words per minute
+could be transmitted, with the new cable we shall be able to transmit five times as many, or
+fifteen words per minute. This is not equal to our Morse system on the land-lines, which will
+signal at the rate of thirty-five words per minute, still less to the printing system, which
+can signal at the rate of fifty words per minute; but, even at this rate, the cable would be
+enabled to transmit in twenty-four hours one thousand despatches containing an average of twenty
+words apiece. Mr. Field, however, claims for the cable a speed of only twelve words per minute,
+which would reduce the number of despatches of twenty words each that could be transmitted
+in twenty-four hours to eight hundred and sixty-four. We will suppose, however, that the cable
+transmits only five hundred telegrams per day; this number, at ten dollars per message, would
+give an income of five thousand dollars per diem, or one million five hundred and sixty-five
+thousand dollars per annum. Quite a handsome revenue on an outlay of about one million of dollars!
+
+The only instrument which could be used successfully in signalling through the old cable was
+one of peculiar construction, called the Marine Galvanometer. In this instrument, momentum
+and inertia are almost wholly avoided by the use of a needle weighing only one and a half grains,
+combined with a mirror reflecting a ray of light, which indicates deflections with great accuracy.
+By this means a gradually increasing or decreasing current is at each instant indicated at
+its due strength. Thus, when this galvanometer is placed as the receiving-instrument at the
+end of a long submarine cable, the movement of the spot of light, consequent on the completion
+of a circuit through the battery, cable, and earth, can be so observed as to furnish a curve
+representing very accurately the arrival of an electric current. Lines representing successive
+signals at various speeds can also be obtained, and, by means of a metronome, dots and dashes
+can be sent with nearly perfect regularity by an ordinary Morse key, and the corresponding
+changes in the current at the receiving end of the cable accurately observed.
+
+A system of arbitrary characters, similar to those used upon the Morse telegraph, was employed,
+and the letter to be indicated was determined by the number of oscillations of the needle,
+as well as by the length of time during which the needle remained in one place. The operator,
+who watched the reflection of the deflected needle in the mirror, held a key in his hand communicating
+with a local instrument in the office, which he pressed down or raised, according to the deflection
+of the needle; and another operator deciphered the characters thus produced upon the paper.
+This mode of telegraphing was, of necessity, very slow, and it will not surprise the reader
+that the fastest rate of speed over the cable did not exceed three words per minute. Still,
+had the old cable continued in operation a few months longer, experience and practice would
+have enabled the operator to transmit and receive with very much greater facility. On our land-lines,
+operators of long experience acquire a dexterity which enables them not only to transmit and
+receive telegrams with wonderful rapidity, but to work the instruments during storms, when
+those of less experience would be unable to receive a dot. There is no occupation in which
+skill and experience are more necessary to success than in that of telegraphing, and at the
+time the Atlantic cable was laid no experience had been obtained upon similar lines, or with
+the instruments employed. Now, however, the company can avail itself of experienced operators
+from lines of nearly equal length, and who will require no time for experimenting, but may
+commence operations as soon as the two ends of the cable are landed upon the shores of Europe
+and America.
+

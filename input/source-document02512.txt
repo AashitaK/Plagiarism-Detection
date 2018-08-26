@@ -1,0 +1,248 @@
+﻿The above are instances where science has come to the aid of engineering. Here is one in which
+the obligation is reversed. The rapid stopping of railroad trains, when necessary, by means
+of brakes, is a problem which has long occupied the attention of many engineers; and the mechanical
+solutions offered have been correspondingly numerous. Some of these depend on the action of
+steam, some of a vacuum, some of compressed air, some of pressure-water; others again ingeniously
+utilize the momentum of the wheels themselves. But for a long time no effort was made by any
+of these inventors thoroughly to master the theoretical conditions of the problem before them.
+At last, one of the most ingenious and successful among them, Mr. George Westinghouse, resolved
+to make experiments on the subject, and was fortunate enough to associate with himself Capt.
+Douglas Galton. Their experiments, carried on with rare energy and perseverance, and at great
+expense, not only brought into the clearest light the physical conditions of the question (conditions
+which were shown to be in strict accordance with theory), but also disclosed the interesting
+scientific fact that the friction between solid bodies at high velocities is not constant,
+as the experiments of Morin had been supposed to imply, but diminishes rapidly as the speed
+increases--a fact which other observations serve to confirm.
+
+The old scientific principle known as the hydrostatic paradox, according to which a pressure
+applied at any point of an inclosed mass of liquid is transmitted unaltered to every other
+point, has been singularly fruitful in practical applications. Mr. Bramah was perhaps the first
+to recognize its value and importance. He applied it to the well known Bramah press, and in
+various other directions, some of which were less successful. One of these was a hydraulic
+lift, which Mr. Bramah proposed to construct by means of several cylinders sliding within each
+other after the manner of the tubes of a telescope. His specification of this invention sufficiently
+expresses his opinion of its value, for it concludes as follows: "This patent does not only
+differ in its nature and in its boundless extent of claims to novelty, but also in its claims
+to merit and superior utility compared with any other patent ever brought before or sanctioned
+by the legislative authority of any nation." The telescope lift has not come into practical
+use; but lifts worked on the hydraulic principle are becoming more and more common every day.
+The same principle has been applied by the genius of Sir William Armstrong and others to the
+working of cranes and other machines for the lifting of weights, etc.; and under the form of
+the accumulator, with its distributing pipes and hydraulic engines, it provides a store of
+power always ready for application at any required point in a large system, yet costing practically
+nothing when not actually at work. This system of high pressure mains worked from a central
+accumulator has been for some years in existence at Hull, as a means of supplying power commercially
+for all the purposes needed in a large town, and it is at this moment being carried out on
+a wider scale in the East End of London.
+
+Taking advantage of this system, and combining with it another scientific principle of wide
+applicability, Mr. J.H. Greathead has brought out an instrument called the "injector hydrant,"
+which seems likely to play an important part in the extinguishing of fires. This second principle
+is that of the lateral induction of fluids, and may be thus expressed in the words of the late
+William Froude: "Any surface which in passing through a fluid experiences resistance must in
+so doing impress on the particles which resist it a force in the line of motion equal to the
+resistance." If then these particles are themselves part of a fluid, it will result that they
+will follow the direction of the moving fluid and be partly carried along with it. As applied
+in the injector hydrant, a small quantity of water derived from the high pressure mains is
+made to pass from one pipe into another, coming in contact at the same time with a reservoir
+of water at ordinary pressure. The result is that the water from the reservoir is drawn into
+the second pipe through a trumpet-shaped nozzle, and may be made to issue as a stream to a
+considerable height. Thus the small quantity of pressure-water, which, if used by itself, would
+perhaps rise to a height of 500 feet, is made to carry with it a much larger quantity to a
+much smaller height, say that of an ordinary house.
+
+The above are only a few of the many instances which might be given to prove the general truth
+of the fact with which we started, namely, the close and reciprocal connection between physical
+science and mechanical engineering, taking both in their widest sense. It may possibly be worth
+while to return again to the subject, as other illustrations arise. Two such have appeared
+even at the moment of writing, and though their practical success is not yet assured, it may
+be worth while to cite them. The first is an application of the old principle of the siphon
+to the purifying of sewage. Into a tank containing the sewage dips a siphon pipe some thirty
+feet high, of which the shorter leg is many times larger than the longer. When this is started,
+the water rises slowly and steadily in the shorter column, and before it reaches the top has
+left behind it all or almost all of the solid particles which it previously held in suspension.
+These fall slowly back through the column and collect at the bottom of the tank, to be cleared
+out when needful. The effluent water is not of course chemically pure, but sufficiently so
+to be turned into any ordinary stream. The second invention rests on a curious fact in chemistry,
+namely, that caustic soda or potash will absorb steam, forming a compound which has a much
+higher temperature than the steam absorbed. If, therefore, exhaust-steam be discharged into
+the bottom of a vessel containing caustic alkali, not only will it become condensed, but this
+condensation will raise the temperature of the mass so high that it may be employed in the
+generation of fresh steam. It is needless to observe how important will be the bearing of this
+invention upon the working of steam engines for many purposes, if only it can be established
+as a practical success. And if it is so established there can be no doubt that the experience
+thus acquired will reveal new and valuable facts with regard to the conditions of chemical
+combination and absorption, in the elements thus brought together.
+
+WALTER R. BROWNE.
+
+       *       *       *       *       *
+
+HYDRAULIC PLATE PRESS.
+
+One of the most remarkable and interesting mechanical arrangements at the Imperial Navy Yard
+at Kiel, Germany, is the iron clad plate bending machine, by means of which the heavy iron
+clad plates are bent for the use of arming iron clad vessels.
+
+Through the mechanism of this remarkable machine it is possible to bend the strongest and heaviest
+iron clad plates--in cold condition--so that they can be fitted close on to the ship's hull,
+as it was done with the man-of-war ships Saxonia, Bavaria, Wurtemberg, and Baden, each of which
+having an iron strength of about 250 meters.
+
+One may make himself a proximate idea of the enormous power of pressure of such a machine,
+if he can imagine what a strength is needed to bend an iron plate of 250 meters thickness,
+in cold condition; being also 1.5 meters in width, and 5.00 meters in length, and weighing
+about 14,555 kilogrammes, or 14,555 tons.
+
+The bending of the plates is done as follows: As it is shown in the illustration, connected
+herewith, there are standing, well secured into the foundation, four perpendicular pillars,
+made of heavy iron, all of which are holding a heavy iron block, which by means of female nut
+screws is lifted and lowered in a perpendicular direction. Beneath the iron block, between
+the pillars, is lying a large hollow cylinder in which the press piston moves up and down in
+a perpendicular direction. These movements are caused by a small machine, or, better, press
+pump--not noticeable in the illustration--which presses water from a reservoir through a narrow
+pipe into the large hollow cylinder, preventing at the same time the escape or return of the
+water so forced in. The hollow cylinder up to the press piston is now filled with water, so
+remains no other way for the piston as to move on to the top. The iron clad plate ready to
+undergo the bending process is lying between press piston and iron block; under the latter
+preparations are already made for the purpose of giving the iron clad plate such a form as
+it will receive through the bending process. After this the press piston will, with the greatest
+force, steadily but slowly move upward, until the iron clad plate has received its intended
+bending.
+
+Lately the hydraulic presses are often used as winding machines, that is, they are used as
+an arrangement to lift heavy loads up on elevated points.
+
+The essential contrivance of a hydraulic press is as follows:
+
+One thinks of a powerful piston, which, through, human, steam, or water power, is set in a
+moving up-and-down motion. Through the ascent of the piston, is by means of a drawing pipe,
+ending into a sieve, the water absorbed out of a reservoir, and by the lowering of the piston
+water is driven out of a cylinder by means of a narrow pipe (communication pipe) into a second
+cylinder, which raises a larger piston, the so-called press piston. (See illustration.)
+
+One on top opening drawing valve, on the top end of the drawing pipe prevents the return of
+the water by the going down of the piston; and a barring valve, which is lifted by the lowering
+of the piston, obstructs the return of the water by the ascent of the piston, while the drawing
+valve is lifted by means of water absorbed by the small drawing pipe.--Illustrirte Zeitung.
+
+       *       *       *       *       *
+
+FAST PRINTING PRESS FOR ENGRAVINGS.
+
+Uber Land und Meer, which is one of the finest illustrated newspapers published in Germany,
+gives the following: We recently gave our readers an insight into the establishment of Uber
+Land und Meer, and to-day we show them the machine which each week starts our paper on its
+journey around the world--a machine which embodies the latest and greatest progress in the
+art of printing. The following illustration represents one of the three fast presses which
+the house of Hallberger employs in the printing of its illustrated journals.
+
+With the invention of the cylinder press by Frederick Koenig was verified the saying that the
+art of printing had lent wings to words. Everywhere the primitive hand-press had to make way
+for the steam printing machine; but even this machine, since its advent in London in 1810,
+has itself undergone so many changes that little else remains of Koenig's invention than the
+principle of the cylinder. The demands of recent times for still more rapid machines have resulted
+in the production of presses printing from a continuous roll or "web" of paper, from cylinders
+revolving in one given direction. The first of this class of presses (the "Bullock" press)
+was built in America. Then England followed, and there the first newspaper to make use of one
+was the Times. The Augsburg Machine Works were the first to supply Germany with them, and it
+was this establishment which first undertook to apply the principle of the web perfecting press
+(first intended for newspaper work only, where speed rather than fine work is the object sought)
+to book printing, in which far greater accuracy and excellence is required, and the result
+has been the construction of a rotary press for the highest grade of illustrated periodical
+publications, which meets all the requirements with the most complete success.
+
+The building of rotary presses for printing illustrated papers was attempted as early as 1874
+or 1875 in London, by the Times, but apparently without success, as no public mention has ever
+been made of any favorable result. The proprietor of the London Illustrated News obtained better
+results. In 1877 an illustrated penny paper, an outgrowth of his great journal, was printed
+upon a rotary press which was, according to his statement, constructed by a machinist named
+Middleton. The first one, however, did not at all meet the higher demands of illustrated periodical
+printing, and, while another machine constructed on the same principle was shown in the Paris
+Exposition of 1878, its work was neither in quality nor quantity adequate to the needs of a
+largely circulated illustrated paper. A second machine, also on exhibition at the same time,
+designed and built by the celebrated French machinist, P. Alauzet, could not be said to have
+attained the object. Its construction was undertaken long after the opening of the Exposition,
+and too late to solve the weighty question. But the half-successful attempt gave promise that
+the time was at hand when a press could be built which could print our illustrated periodicals
+more rapidly, and a conference with the proprietors of the Augsburg Machine Works resulted
+in the production by them of the three presses from which Uber Land und Meer and Die Illustrirte
+Welt are to-day issued. As a whole and in detail, as well as in its productions, the press
+is the marvel of mechanic and layman.
+
+As seen in the illustration, the web of paper leaves the roll at its right, rising to a point
+at the top where it passes between two hollow cylinders covered with felt and filled with steam,
+which serve to dampen the paper as may be necessary, the small hand-wheel seen above these
+cylinders regulating the supply of steam. After leaving these cylinders the paper descends
+sloping toward the right, and passes through two highly polished cylinders for the purpose
+of recalendering. After this it passes under the lowest of the three large cylinders of the
+press, winds itself in the shape of an S toward the outside and over the middle cylinder, and
+leaves the press in an almost horizontal line, after having been printed on both sides, and
+is then cut into sheets. The printing is done while the paper is passing around the two white
+cylinders. The cylinder carrying the first form is placed inside and toward the center of the
+press, only a part of its cog-wheel and its journal being shown in the engraving. The second
+form is placed upon the uppermost cylinder, and is the outside or cut form. Each one of the
+form cylinders requires a separate inking apparatus. That of the upper one is placed to the
+right at the top, and the bottom one is also at the right, but inside. Each one has a fountain
+the whole breadth of the press, in which the ink is kept, and connected with which, by appropriate
+mechanism, is a system of rollers for the thorough distribution of the ink and depositing it
+upon the forms.
+
+The rapidity with which the impressions follow each other does not allow any time for the printing
+on the first side to dry, and as a consequence the freshly printed sheet coming in contact
+with the "packing" of the second cylinder would so soil it as to render clean printing absolutely
+impossible. To avoid this, a second roll of paper is introduced into the machine, and is drawn
+around the middle cylinder beneath the paper which has already been printed upon one side,
+and receives upon its surface all "offset," thus protecting and keeping perfectly clean both
+the printed paper and the impression cylinder. This "offset" web, as it leaves the press, is
+wound upon a second roller, which when full is exchanged for the new empty roller--a very simple
+operation.
+
+The machines print from 3,500 to 4,000 sheets per hour upon both sides, a rate of production
+from twenty-eight to thirty-two times as great as was possible upon the old-fashioned hand-press,
+which was capable of printing not more than 250 copies upon one side in the same time.
+
+The device above described for preventing "offset" is, we believe, the invention of Mr. H.J.
+Hewitt, a well known New York printer, 27 Rose Street.
+
+       *       *       *       *       *
+
+FRENCH CANNON.
+
+Five new cannons, the largest yet manufactured in France, have been successfully cast in the
+foundry of Ruelle near Angouleme. They are made of steel, and are breech loading. The weight
+of each is 97 tons, without the carriage. The projectile weighs 1,716 pounds, and the charge
+or powder is 616 pounds. To remove them a special wagon with sixteen wheels has had to be constructed,
+and the bridges upon the road from Ruelle to Angouleme not being solid enough to bear the weight
+of so heavy a load, a special roadway will be constructed for the transport of these weapons,
+which are destined for coast defences and ironclads.
+
+       *       *       *       *       *
+
+WOODLANDS, STOKE POGIS, BUCKS.
+
+The illustration represents a house recently reconstructed. The dining-room wing was alone
+left in the demolition of the old premises, and this part has been decorated with tile facings,
+and otherwise altered to be in accordance with the new portion. The house is pleasantly situated
+about a mile from Stoke Church of historic fame, in about 15 acres of garden, shrubbery, and
+meadow land. The hall and staircase have been treated in wainscot oak, and the whole of the
+work has been satisfactorily carried out by Mr. G. Almond, builder, of Burnham, under the superintendence
+of Messrs. Thurlow & Cross, architects.--The Architect.
+
+       *       *       *       *       *
+
+CHINA GRASS.
+
+The following article appeared in a recent number of the London Times:
+
+The subject of the cultivation and commercial utilization of the China grass plant, or rhea,
+has for many years occupied attention, the question being one of national importance, particularly
+as affecting India. Rhea which is also known under the name of ramie, is a textile plant which
+was indigenous to China and India. It is perennial, easy of cultivation, and produces a remarkably
+strong fiber. The problem of its cultivation has long being solved, for within certain limits
+rhea can be grown in any climate. India and the British colonies offer unusual facilities,
+and present vast and appropriate fields for that enterprise, while it can be, and is, grown
+in most European countries. All this has long been demonstrated; not so, however, the commercial
+utilization of the fiber, which up to the present time would appear to be a problem only partially
+solved, although many earnest workers have been engaged in the attempted solution.
+
